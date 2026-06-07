@@ -6,18 +6,18 @@ Analyze customer purchase transactions to identify buying patterns, customer seg
 ## Dataset Description
 The dataset contains transactional purchase records with customer demographics, product details, channel/payment information, loyalty status, and purchase dates.
 
+**Key columns:**
+- Customer: ID, Name, Age, Gender, City, Region, Occupation, Segment, Loyalty
+- Transaction: Purchase Date, Quantity, Unit Price, Total Purchase Value, Discount Used
+- Commerce: Payment Method, Purchase Channel
+- Recency/Frequency: Purchase Frequency, Last Purchase Date
+  
 ## Dashboard 
 
 <img width="1313" height="740" alt="Screenshot 2026-06-07 122226" src="https://github.com/user-attachments/assets/62a1374d-8dd9-4d04-b069-e29a7810a5aa" />
 
 <img width="1312" height="737" alt="Screenshot 2026-06-07 122247" src="https://github.com/user-attachments/assets/236a6cbe-6683-4e4e-be66-25f1bb8c42ac" />
 
-
-**Key columns:**
-- Customer: ID, Name, Age, Gender, City, Region, Occupation, Segment, Loyalty
-- Transaction: Purchase Date, Quantity, Unit Price, Total Purchase Value, Discount Used
-- Commerce: Payment Method, Purchase Channel
-- Recency/Frequency: Purchase Frequency, Last Purchase Date
 
 ## Methodology
 1. Data Collection (CSV transactional dataset)
