@@ -1,0 +1,509 @@
+Customer ID,Customer Name,Age,Gender,City,Region,Occupation,Product Category,Product Name,Purchase Date,Quantity Purchased,Unit Price,Total Purchase Value,Payment Method,Purchase Channel,Customer Segment,Loyalty Status,Discount Used,Purchase Frequency,Last Purchase Date
+CUST0130,Leah Sharma,19,Female,Detroit,Midwest,Director,Groceries,Basmati Rice 5lb,2025-12-29,3,18.09,54.27,Credit Card,Website,Budget Buyers,Silver,No,Medium,2026-01-02
+CUST0175,Vivaan Moore,52,Female,San Diego,West,Data Analyst,Beverages,Premium Coffee Pods,2026-05-21,1,14.3,14.3,Cash,Store,High Value,Gold,No,High,2026-06-03
+CUST0084,Muhammad Davis,49,Female,San Diego,West,Teacher,Snacks,Trail Mix,2026-03-02,3,5.39,16.17,UPI/Wallet,Store,High Value,Gold,No,High,2026-03-29
+CUST0022,Noah Taylor,34,Male,Orlando,South,Data Scientist,Personal Care,Shampoo,2025-12-18,2,6.49,12.98,Credit Card,Mobile App,Young Professionals,Silver,Yes,Medium,2026-02-08
+CUST0027,Benjamin Das,46,Female,Newark,Northeast,Nurse,Home Care,Paper Towels,2026-05-07,1,3.37,3.37,Net Banking,Mobile App,Family Shoppers,None,No,Medium,2026-06-03
+CUST0081,Krishna Gupta,18,Female,San Diego,West,Marketing Specialist,Beverages,Orange Juice,2026-03-16,3,11.43,34.29,Credit Card,Website,Budget Buyers,None,No,High,2026-04-29
+CUST0126,Nora Reddy,21,Male,Portland,West,Teacher,Snacks,Trail Mix,2026-05-03,3,7.35,22.05,Credit Card,Website,Budget Buyers,None,Yes,High,2026-05-22
+CUST0092,Arjun Martinez,46,Female,Denver,West,Student,Home Care,Sponges Pack,2026-05-29,1,3.09,3.09,UPI/Wallet,Website,High Value,Gold,No,High,2026-06-03
+CUST0021,Vivaan Mehta,43,Female,Seattle,West,Business Owner,Home Care,Disinfectant Spray,2026-02-25,2,16.03,32.06,UPI/Wallet,Website,Family Shoppers,None,Yes,Medium,2026-04-26
+CUST0047,Muhammad Reddy,49,Male,San Francisco,West,Marketing Specialist,Baby Products,Baby Diapers,2026-03-24,4,7.82,31.28,Debit Card,Mobile App,High Value,Gold,Yes,Medium,2026-04-19
+CUST0101,Mason Gupta,45,Male,Atlanta,South,Accountant,Beverages,Premium Coffee Pods,2026-06-01,2,5.6,11.2,Credit Card,Mobile App,Family Shoppers,None,Yes,High,2026-06-03
+CUST0084,Muhammad Davis,49,Female,San Diego,West,Teacher,Groceries,Cheese,2026-04-14,3,4.48,13.44,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-06-03
+CUST0006,Nora Williams,20,Female,San Diego,West,Sales Executive,Beverages,Cold Brew Coffee,2026-05-23,1,13.67,13.67,UPI/Wallet,Mobile App,Budget Buyers,None,Yes,Medium,2026-06-03
+CUST0147,Emma Lee,46,Female,Portland,West,Consultant,Snacks,Dark Chocolate,2025-12-23,2,10.5,21.0,Credit Card,Mobile App,Family Shoppers,None,No,Medium,2026-01-18
+CUST0131,Mason Davis,45,Female,San Diego,West,Product Manager,Home Care,Glass Cleaner,2026-01-01,1,7.39,7.39,Credit Card,Website,High Value,Silver,No,High,2026-01-26
+CUST0001,Nora Sharma,50,Male,Phoenix,West,Director,Beverages,Sports Drink,2026-05-26,1,6.06,6.06,Credit Card,Website,High Value,Gold,No,Medium,2026-06-01
+CUST0058,Harper White,25,Female,San Francisco,West,Software Engineer,Groceries,Salmon Fillet,2026-02-13,3,13.46,40.38,Credit Card,Mobile App,Young Professionals,Silver,No,High,2026-03-26
+CUST0124,Ava Martinez,18,Female,Detroit,Midwest,Data Analyst,Baby Products,Baby Lotion,2026-02-05,1,18.72,18.72,Cash,Website,Budget Buyers,None,No,Low,2026-03-23
+CUST0166,Ella White,46,Female,Atlanta,South,Software Engineer,Beverages,Iced Tea,2026-02-15,1,1.64,1.64,Debit Card,Website,High Value,Gold,Yes,High,2026-04-08
+CUST0015,Aditya Garcia,39,Female,Orlando,South,Sales Executive,Personal Care,Hand Cream,2026-04-07,2,8.66,17.32,Net Banking,Mobile App,Young Professionals,None,No,Medium,2026-06-03
+CUST0162,Grace Garcia,58,Male,Denver,West,Data Analyst,Baby Products,Baby Food Jar,2026-04-02,3,9.7,29.1,Credit Card,Website,High Value,Silver,Yes,Low,2026-05-09
+CUST0163,Ethan Garcia,24,Male,Miami,South,Marketing Specialist,Groceries,Avocados,2026-04-04,2,19.27,38.54,UPI/Wallet,Store,Budget Buyers,None,Yes,High,2026-04-08
+CUST0064,Charlotte Martin,47,Male,Los Angeles,West,Consultant,Snacks,Granola,2025-12-23,2,10.04,20.08,Credit Card,Store,High Value,Gold,No,High,2026-01-14
+CUST0025,Liam Davis,26,Female,Newark,Northeast,HR Manager,Home Care,Air Freshener,2026-05-28,2,12.56,25.12,Credit Card,Website,Family Shoppers,None,Yes,High,2026-06-03
+CUST0024,Olivia Davis,50,Male,Dallas,South,Marketing Specialist,Beverages,Electrolyte Drink,2026-04-25,1,9.8,9.8,Credit Card,Website,High Value,Gold,Yes,Medium,2026-05-28
+CUST0012,Zoey Johnson,57,Female,Detroit,Midwest,HR Manager,Groceries,Cheese,2026-04-03,1,7.72,7.72,Credit Card,Mobile App,High Value,Gold,Yes,Medium,2026-05-25
+CUST0018,Ethan Singh,44,Female,Orlando,South,Data Analyst,Baby Products,Baby Lotion,2026-05-19,1,19.08,19.08,Debit Card,Mobile App,Young Professionals,None,Yes,Medium,2026-06-02
+CUST0015,Aditya Garcia,39,Female,Orlando,South,Sales Executive,Personal Care,Conditioner,2026-06-03,2,16.67,33.34,Net Banking,Mobile App,Young Professionals,None,No,Low,2026-06-03
+CUST0027,Benjamin Das,46,Female,Newark,Northeast,Nurse,Groceries,Whole Wheat Bread,2026-02-03,1,9.73,9.73,UPI/Wallet,Store,Family Shoppers,None,Yes,Medium,2026-02-28
+CUST0072,Harper Davis,34,Male,Nashville,South,Data Scientist,Beauty,Makeup Kit,2026-05-17,2,40.63,81.26,Credit Card,Mobile App,High Value,Silver,Yes,Medium,2026-06-03
+CUST0060,Chloe Gupta,56,Female,Los Angeles,West,Accountant,Personal Care,Toothpaste,2026-05-21,1,13.55,13.55,Credit Card,Mobile App,Family Shoppers,Silver,No,High,2026-06-03
+CUST0174,Vivaan Singh,41,Male,Austin,South,Accountant,Baby Products,Baby Formula,2026-01-03,1,15.06,15.06,Credit Card,Store,Family Shoppers,Gold,Yes,Medium,2026-01-21
+CUST0145,Abigail Reddy,57,Male,Portland,West,Nurse,Snacks,Chips Combo,2025-12-13,3,3.08,9.24,Debit Card,Store,Family Shoppers,Gold,No,Medium,2025-12-21
+CUST0093,Nora Johnson,20,Male,San Francisco,West,Designer,Home Care,Dish Soap,2026-02-06,2,13.73,27.46,UPI/Wallet,Store,Budget Buyers,None,Yes,Medium,2026-03-06
+CUST0053,Vihaan Perez,59,Female,New York,Northeast,Teacher,Baby Products,Baby Food Jar,2026-05-14,2,27.39,54.78,Cash,Mobile App,Family Shoppers,Gold,No,Medium,2026-06-03
+CUST0008,Mason Mehta,42,Female,San Diego,West,Operations Manager,Snacks,Granola,2026-04-03,2,6.14,12.28,Credit Card,Mobile App,Young Professionals,Gold,No,Medium,2026-06-02
+CUST0079,Lucas Das,26,Male,Miami,South,Accountant,Beverages,Electrolyte Drink,2026-01-25,1,18.87,18.87,Debit Card,Mobile App,Young Professionals,Gold,No,Medium,2026-03-23
+CUST0027,Benjamin Das,46,Female,Newark,Northeast,Nurse,Groceries,Basmati Rice 5lb,2026-03-03,3,20.58,61.74,Debit Card,Mobile App,Family Shoppers,None,No,Medium,2026-04-22
+CUST0174,Vivaan Singh,41,Male,Austin,South,Accountant,Beauty,Face Serum,2026-04-25,1,12.81,12.81,UPI/Wallet,Mobile App,Family Shoppers,Gold,No,Medium,2026-06-02
+CUST0050,Amelia Reddy,42,Male,Seattle,West,Student,Personal Care,Face Wash,2026-01-26,2,15.86,31.72,Debit Card,Website,Budget Buyers,None,Yes,Medium,2026-01-29
+CUST0131,Mason Davis,45,Female,San Diego,West,Product Manager,Personal Care,Body Wash,2026-02-20,3,16.52,49.56,UPI/Wallet,Store,High Value,Silver,No,High,2026-02-22
+CUST0093,Nora Johnson,20,Male,San Francisco,West,Designer,Groceries,Olive Oil,2026-01-14,2,10.16,20.32,UPI/Wallet,Mobile App,Budget Buyers,None,Yes,Medium,2026-03-10
+CUST0172,Leah Perez,54,Female,New York,Northeast,HR Manager,Beauty,Perfume,2026-02-10,1,42.64,42.64,Credit Card,Website,Family Shoppers,Silver,No,High,2026-03-10
+CUST0024,Olivia Davis,50,Male,Dallas,South,Marketing Specialist,Groceries,Coffee Beans,2025-12-12,1,3.88,3.88,UPI/Wallet,Website,High Value,Gold,Yes,High,2026-02-01
+CUST0060,Chloe Gupta,56,Female,Los Angeles,West,Accountant,Beverages,Iced Tea,2025-12-06,6,11.73,70.38,Credit Card,Mobile App,Family Shoppers,Silver,Yes,Medium,2025-12-16
+CUST0122,Isabella Anderson,36,Male,Chicago,Midwest,Marketing Specialist,Snacks,Nuts Mix,2026-03-19,3,10.29,30.87,UPI/Wallet,Website,Family Shoppers,None,Yes,High,2026-04-20
+CUST0131,Mason Davis,45,Female,San Diego,West,Product Manager,Baby Products,Baby Shampoo,2026-04-08,1,8.48,8.48,Debit Card,Mobile App,High Value,Silver,Yes,Medium,2026-05-15
+CUST0148,Henry Patel,30,Female,San Diego,West,Director,Personal Care,Face Wash,2026-03-24,1,16.01,16.01,Debit Card,Mobile App,Family Shoppers,Gold,Yes,Low,2026-05-20
+CUST0046,Reyansh Sharma,19,Male,Austin,South,HR Manager,Beverages,Coffee Latte,2026-02-28,1,6.29,6.29,Cash,Website,Budget Buyers,None,No,Medium,2026-03-10
+CUST0015,Aditya Garcia,39,Female,Orlando,South,Sales Executive,Snacks,Gummies,2026-05-22,4,8.44,33.76,Cash,Mobile App,Young Professionals,None,No,High,2026-06-03
+CUST0153,Benjamin Miller,40,Male,Detroit,Midwest,Business Owner,Beverages,Sports Drink,2026-04-03,2,6.11,12.22,UPI/Wallet,Store,Family Shoppers,Silver,No,Medium,2026-05-05
+CUST0017,Vivaan Moore,19,Male,Seattle,West,Business Owner,Beauty,Face Serum,2026-04-10,2,31.47,62.94,Debit Card,Mobile App,High Value,Silver,No,Medium,2026-04-30
+CUST0126,Nora Reddy,21,Male,Portland,West,Teacher,Personal Care,Deodorant,2025-12-20,1,3.68,3.68,UPI/Wallet,Website,Budget Buyers,None,Yes,High,2026-01-27
+CUST0084,Muhammad Davis,49,Female,San Diego,West,Teacher,Baby Products,Baby Formula,2026-02-04,4,14.63,58.52,Debit Card,Mobile App,High Value,Gold,Yes,Medium,2026-03-06
+CUST0009,Emma Thomas,59,Female,Portland,West,Data Analyst,Groceries,Organic Milk,2026-03-27,1,11.26,11.26,Cash,Mobile App,High Value,Silver,Yes,High,2026-05-03
+CUST0166,Ella White,46,Female,Atlanta,South,Software Engineer,Groceries,Greek Yogurt,2026-05-29,3,14.51,43.53,Debit Card,Mobile App,High Value,Gold,Yes,Medium,2026-06-03
+CUST0176,Henry Thompson,52,Male,Austin,South,Student,Snacks,Energy Bar,2026-05-11,3,1.03,3.09,Net Banking,Website,High Value,Gold,No,High,2026-05-12
+CUST0063,Sophia Davis,49,Male,Nashville,South,Teacher,Baby Products,Baby Formula,2025-12-16,2,9.65,19.3,Cash,Store,High Value,Silver,No,Medium,2026-01-11
+CUST0117,Sophia Khan,22,Female,Orlando,South,HR Manager,Home Care,Sponges Pack,2026-01-08,2,9.24,18.48,UPI/Wallet,Store,Budget Buyers,None,Yes,High,2026-02-12
+CUST0130,Leah Sharma,19,Female,Detroit,Midwest,Director,Beauty,Moisturizer,2025-12-15,2,21.73,43.46,Credit Card,Website,Budget Buyers,Silver,Yes,Medium,2025-12-25
+CUST0088,Muhammad Taylor,33,Female,Miami,South,Product Manager,Snacks,Nuts Mix,2026-02-06,2,9.04,18.08,Credit Card,Store,Family Shoppers,None,No,Low,2026-03-24
+CUST0072,Harper Davis,34,Male,Nashville,South,Data Scientist,Home Care,Sponges Pack,2026-01-23,2,14.94,29.88,Cash,Website,High Value,Silver,No,Medium,2026-02-09
+CUST0139,Liam White,50,Female,Nashville,South,Nurse,Beverages,Orange Juice,2026-05-02,2,1.68,3.36,Credit Card,Website,High Value,Gold,No,High,2026-06-03
+CUST0064,Charlotte Martin,47,Male,Los Angeles,West,Consultant,Beauty,Eyeliner,2026-02-11,1,42.44,42.44,Cash,Website,High Value,Gold,No,High,2026-02-11
+CUST0072,Harper Davis,34,Male,Nashville,South,Data Scientist,Beverages,Electrolyte Drink,2026-01-21,6,15.0,90.0,Debit Card,Website,High Value,Silver,Yes,High,2026-02-24
+CUST0021,Vivaan Mehta,43,Female,Seattle,West,Business Owner,Baby Products,Baby Formula,2025-12-24,3,6.3,18.9,Debit Card,Store,Family Shoppers,None,No,Low,2026-01-27
+CUST0018,Ethan Singh,44,Female,Orlando,South,Data Analyst,Personal Care,Conditioner,2026-03-15,2,9.49,18.98,Cash,Mobile App,Young Professionals,None,Yes,Medium,2026-04-14
+CUST0064,Charlotte Martin,47,Male,Los Angeles,West,Consultant,Beauty,Body Lotion,2026-05-25,1,11.16,11.16,Debit Card,Store,High Value,Gold,No,High,2026-06-03
+CUST0082,Ethan Wilson,18,Female,Minneapolis,Midwest,HR Manager,Home Care,Toilet Cleaner,2026-05-14,2,13.0,26.0,Debit Card,Website,Budget Buyers,Silver,No,Low,2026-06-03
+CUST0110,Lily Rodriguez,56,Female,Detroit,Midwest,Product Manager,Personal Care,Toothpaste,2026-04-20,1,14.51,14.51,Debit Card,Mobile App,High Value,Silver,Yes,Low,2026-04-20
+CUST0095,Reyansh Reddy,43,Female,San Francisco,West,Product Manager,Groceries,Greek Yogurt,2026-02-10,2,3.55,7.1,Credit Card,Mobile App,Family Shoppers,None,No,High,2026-03-06
+CUST0166,Ella White,46,Female,Atlanta,South,Software Engineer,Home Care,Air Freshener,2026-01-08,3,6.63,19.89,UPI/Wallet,Mobile App,High Value,Gold,No,High,2026-02-19
+CUST0032,Leah Thompson,41,Female,Phoenix,West,Designer,Snacks,Gummies,2026-02-07,3,10.22,30.66,Credit Card,Website,Young Professionals,Silver,Yes,Medium,2026-03-16
+CUST0011,Ethan Thomas,20,Male,Boston,Northeast,Student,Groceries,Fresh Strawberries,2025-12-12,1,20.95,20.95,Cash,Store,Budget Buyers,None,No,Medium,2025-12-31
+CUST0045,Henry Das,51,Female,Nashville,South,Nurse,Groceries,Fresh Strawberries,2026-01-18,1,16.59,16.59,Cash,Mobile App,High Value,Silver,Yes,High,2026-01-20
+CUST0033,Reyansh Gupta,30,Male,Chicago,Midwest,Student,Snacks,Granola,2026-03-01,1,10.97,10.97,Credit Card,Store,Budget Buyers,None,Yes,Medium,2026-04-20
+CUST0102,Ethan Davis,22,Male,Phoenix,West,Accountant,Beauty,Face Serum,2026-05-28,2,34.82,69.64,UPI/Wallet,Store,Budget Buyers,None,Yes,High,2026-05-29
+CUST0169,Nora Anderson,38,Male,Dallas,South,HR Manager,Groceries,Salmon Fillet,2026-05-21,2,2.35,4.7,Debit Card,Mobile App,High Value,Gold,No,High,2026-06-03
+CUST0136,Ava Thomas,29,Female,Orlando,South,Director,Baby Products,Baby Lotion,2026-02-18,2,24.06,48.12,Credit Card,Store,High Value,Silver,No,Medium,2026-04-02
+CUST0011,Ethan Thomas,20,Male,Boston,Northeast,Student,Home Care,Toilet Cleaner,2026-02-18,1,7.01,7.01,Net Banking,Store,Budget Buyers,None,No,High,2026-04-19
+CUST0179,Ella Anderson,56,Male,Detroit,Midwest,Software Engineer,Personal Care,Conditioner,2026-05-27,2,,8.2,Credit Card,Website,High Value,Gold,No,High,2026-06-03
+CUST0088,Muhammad Taylor,33,Female,Miami,South,Product Manager,Groceries,Basmati Rice 5lb,2026-01-20,1,13.29,13.29,Credit Card,Store,Family Shoppers,None,Yes,Medium,2026-01-24
+CUST0041,Krishna Wilson,29,Male,Los Angeles,West,Nurse,Home Care,Toilet Cleaner,2025-12-19,1,8.74,8.74,Debit Card,Store,High Value,Gold,No,High,2025-12-27
+CUST0145,Abigail Reddy,57,Male,Portland,West,Nurse,Beverages,Energy Drink Pack,2026-03-19,2,4.45,8.9,Debit Card,Website,Family Shoppers,Gold,Yes,Medium,2026-03-20
+CUST0076,Alexander Singh,54,Female,Phoenix,West,Data Scientist,Home Care,Dish Soap,2026-04-30,1,7.98,7.98,Debit Card,Mobile App,Family Shoppers,Silver,No,Medium,2026-06-02
+CUST0121,Isabella Jones,27,Male,Dallas,South,Sales Executive,Personal Care,Hand Cream,2025-12-30,1,13.82,13.82,UPI/Wallet,Store,Young Professionals,Silver,Yes,Medium,2026-02-27
+CUST0046,Reyansh Sharma,19,Male,Austin,South,HR Manager,Home Care,Air Freshener,2026-01-25,2,12.63,25.26,Debit Card,Website,Budget Buyers,None,Yes,High,2026-03-03
+CUST0160,Krishna Khan,43,Female,New York,Northeast,HR Manager,Snacks,Energy Bar,2026-03-07,3,7.25,21.75,Debit Card,Website,Family Shoppers,None,No,Medium,2026-05-06
+CUST0080,Reyansh Das,29,Female,Minneapolis,Midwest,Product Manager,Personal Care,Body Wash,2026-05-03,2,10.77,21.54,Credit Card,Mobile App,Young Professionals,Gold,Yes,Medium,2026-06-02
+CUST0054,Vivaan Jackson,23,Female,Dallas,South,Student,Beauty,Makeup Kit,2025-12-25,1,33.0,33.0,Credit Card,Store,Budget Buyers,None,Yes,Medium,2026-01-03
+CUST0086,Emma Martinez,57,Female,Portland,West,Designer,Beverages,Coffee Latte,2026-01-24,3,16.77,50.31,Credit Card,Mobile App,Family Shoppers,Gold,Yes,Medium,2026-03-14
+CUST0092,Arjun Martinez,46,Female,Denver,West,Student,Snacks,Cookies Box,2026-01-11,1,4.2,4.2,Credit Card,Store,High Value,Gold,Yes,Medium,2026-01-22
+CUST0148,Henry Patel,30,Female,San Diego,West,Director,Beauty,Sunscreen,2025-12-24,2,13.64,27.28,Debit Card,Mobile App,Family Shoppers,Gold,Yes,Low,2026-01-28
+CUST0161,Leah Gupta,51,Female,Detroit,Midwest,Nurse,Home Care,Floor Cleaner,2026-05-10,3,13.65,40.95,Credit Card,Mobile App,Family Shoppers,Gold,Yes,High,2026-06-03
+CUST0168,Olivia Jones,42,Male,Nashville,South,Nurse,Personal Care,Vitamin C Tablets,2026-06-01,1,11.65,11.65,Credit Card,Mobile App,High Value,Gold,Yes,High,2026-06-03
+CUST0160,Krishna Khan,43,Female,New York,Northeast,HR Manager,Beverages,Sports Drink,2026-04-15,3,2.13,6.39,Credit Card,Mobile App,Family Shoppers,None,Yes,Low,2026-06-02
+CUST0097,Muhammad Mehta,54,Male,San Francisco,West,Operations Manager,Snacks,Granola,2026-01-28,4,7.4,29.6,Cash,Website,High Value,Gold,No,High,2026-03-15
+CUST0002,Alexander Wilson,38,Female,San Diego,West,Accountant,Beauty,Perfume,2026-03-06,1,16.85,16.85,Cash,Store,Family Shoppers,None,Yes,Medium,2026-03-11
+CUST0033,Reyansh Gupta,30,Male,Chicago,Midwest,Student,Beauty,Hair Oil,2026-01-01,1,32.09,32.09,Debit Card,Store,Budget Buyers,None,No,High,2026-02-17
+CUST0158,Muhammad Davis,43,Female,Orlando,South,Data Scientist,Beverages,Orange Juice,2025-12-08,4,11.66,46.64,Cash,Mobile App,Young Professionals,Gold,No,Low,2026-01-25
+CUST0161,Leah Gupta,51,Female,Detroit,Midwest,Nurse,Baby Products,Baby Lotion,2026-05-03,3,10.12,30.36,UPI/Wallet,Mobile App,Family Shoppers,Gold,Yes,Medium,2026-05-05
+CUST0077,Isabella Lee,43,Male,San Francisco,West,Data Scientist,Home Care,Glass Cleaner,2026-02-18,3,12.3,36.9,Debit Card,Store,Young Professionals,Silver,No,Medium,2026-02-27
+CUST0116,James Das,27,Female,Newark,Northeast,Student,Beverages,Kombucha,2026-05-26,2,17.1,34.2,Credit Card,Store,Budget Buyers,Silver,No,Medium,2026-05-30
+CUST0154,Ava Sharma,34,Female,Chicago,Midwest,Designer,Beauty,Skincare Set,2026-02-09,2,18.22,36.44,UPI/Wallet,Website,High Value,Gold,No,Medium,2026-03-26
+CUST0150,Nora White,48,Female,San Francisco,West,Manager,Groceries,Coffee Beans,2026-02-28,4,12.31,49.24,UPI/Wallet,Website,High Value,Silver,No,Medium,2026-03-25
+CUST0103,Leah White,47,Female,Miami,South,HR Manager,Snacks,Dark Chocolate,2026-05-15,2,2.8,5.6,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-06-03
+CUST0166,Ella White,46,Female,Atlanta,South,Software Engineer,Beverages,Coffee Latte,2026-03-05,6,16.39,98.34,UPI/Wallet,Store,High Value,Gold,No,High,2026-03-25
+CUST0103,Leah White,47,Female,Miami,South,HR Manager,Baby Products,Baby Lotion,2026-03-19,3,13.43,40.29,Debit Card,Website,High Value,Gold,No,Medium,2026-05-02
+CUST0090,Lily Sharma,22,Female,Austin,South,Consultant,Beauty,Sunscreen,2025-12-05,1,27.94,27.94,UPI/Wallet,Mobile App,Budget Buyers,None,No,High,2025-12-30
+CUST0174,Vivaan Singh,41,Male,Austin,South,Accountant,Home Care,Toilet Cleaner,2026-02-14,2,13.35,26.7,Cash,Mobile App,Family Shoppers,Gold,Yes,Medium,2026-03-23
+CUST0122,Isabella Anderson,36,Male,Chicago,Midwest,Marketing Specialist,Beauty,Sunscreen,2026-03-01,1,42.43,42.43,Credit Card,Store,Family Shoppers,None,No,High,2026-04-13
+CUST0143,Henry Wilson,18,Female,Newark,Northeast,HR Manager,Home Care,Laundry Detergent,2026-05-19,1,6.45,6.45,UPI/Wallet,Mobile App,Budget Buyers,None,No,Medium,2026-06-03
+CUST0106,Liam Jackson,33,Female,Detroit,Midwest,Sales Executive,Beverages,Iced Tea,2025-12-10,2,8.9,17.8,Debit Card,Mobile App,Young Professionals,Silver,Yes,High,2025-12-17
+CUST0119,Benjamin Khan,51,Female,Philadelphia,Northeast,Designer,Home Care,Disinfectant Spray,2026-05-06,1,14.42,14.42,UPI/Wallet,Website,Family Shoppers,None,Yes,Medium,2026-05-10
+CUST0172,Leah Perez,54,Female,New York,Northeast,HR Manager,Personal Care,Toothpaste,2026-04-28,3,17.19,51.57,UPI/Wallet,Mobile App,Family Shoppers,Silver,Yes,Medium,2026-05-12
+CUST0049,Sophia Rodriguez,39,Male,Orlando,South,Designer,Personal Care,Body Wash,2026-02-03,3,11.93,35.79,Credit Card,Mobile App,Young Professionals,None,No,High,2026-04-02
+CUST0104,Lily Jackson,22,Male,Austin,South,Marketing Specialist,Personal Care,Face Wash,2025-12-16,1,14.17,14.17,Debit Card,Store,Budget Buyers,None,No,High,2025-12-31
+CUST0061,Ishaan Iyer,21,Male,Los Angeles,West,Marketing Specialist,Baby Products,Baby Shampoo,2025-12-10,2,9.51,19.02,Credit Card,Store,Budget Buyers,None,No,High,2025-12-10
+CUST0123,James Davis,49,Male,Newark,Northeast,Sales Executive,Baby Products,Baby Wipes,2025-12-31,4,19.02,76.08,,Store,Family Shoppers,None,No,Medium,2026-01-15
+CUST0134,Alexander Wilson,37,Male,Boston,Northeast,Teacher,Groceries,Coffee Beans,2026-04-19,3,11.37,34.11,Debit Card,Store,Young Professionals,Silver,No,High,2026-05-25
+CUST0009,Emma Thomas,59,Female,Portland,West,Data Analyst,Baby Products,Baby Food Jar,2026-04-07,1,21.86,21.86,UPI/Wallet,Website,High Value,Silver,Yes,Low,2026-04-09
+CUST0006,Nora Williams,20,Female,San Diego,West,Sales Executive,Beverages,Energy Drink Pack,2026-03-20,2,19.9,39.8,Credit Card,Store,Budget Buyers,None,Yes,Low,2026-05-10
+CUST0073,Ethan White,36,Male,Denver,West,Operations Manager,Beauty,Skincare Set,2026-03-07,1,22.5,22.5,Debit Card,Mobile App,High Value,Gold,No,High,2026-04-22
+CUST0103,Leah White,47,Female,Miami,South,HR Manager,Beauty,Skincare Set,2026-03-23,1,12.03,12.03,Credit Card,Website,High Value,Gold,No,High,2026-04-22
+CUST0160,Krishna Khan,43,Female,New York,Northeast,HR Manager,Groceries,Whole Wheat Bread,2026-03-13,2,11.71,23.42,Cash,Store,Family Shoppers,None,No,Medium,2026-03-25
+CUST0041,Krishna Wilson,29,Male,Los Angeles,West,Nurse,Baby Products,Baby Lotion,2026-05-21,2,28.83,57.66,Cash,Mobile App,High Value,Gold,No,Medium,2026-06-03
+CUST0114,Aarav Davis,54,Female,Detroit,Midwest,Business Owner,Home Care,Trash Bags,2026-04-25,2,6.29,12.58,Net Banking,Mobile App,High Value,Silver,No,Medium,2026-05-10
+CUST0008,Mason Mehta,42,Female,San Diego,West,Operations Manager,Groceries,Fresh Eggs,2026-01-08,1,20.35,20.35,UPI/Wallet,Website,Young Professionals,Gold,No,Low,2026-03-03
+CUST0072,Harper Davis,34,Male,Nashville,South,Data Scientist,Home Care,Dish Soap,2026-05-29,1,6.21,6.21,UPI/Wallet,Mobile App,High Value,Silver,No,Medium,2026-06-03
+CUST0178,Leah Jones,35,Female,San Francisco,West,HR Manager,Home Care,Laundry Detergent,2026-02-26,2,3.21,6.42,Credit Card,Mobile App,Young Professionals,None,No,Low,2026-03-18
+CUST0092,Arjun Martinez,46,Female,Denver,West,Student,Snacks,Trail Mix,2026-01-29,2,9.05,18.1,Credit Card,Store,High Value,Gold,Yes,Medium,2026-01-30
+CUST0062,Zoey Perez,23,Female,Boston,Northeast,Student,Beauty,Lipstick,2026-05-30,1,33.84,33.84,Debit Card,Store,Budget Buyers,None,Yes,Low,2026-06-03
+CUST0084,Muhammad Davis,49,Female,San Diego,West,Teacher,Personal Care,Face Wash,2026-04-24,3,17.25,51.75,UPI/Wallet,Mobile App,High Value,Gold,Yes,High,2026-05-20
+CUST0062,Zoey Perez,23,Female,Boston,Northeast,Student,Baby Products,Baby Shampoo,2026-01-22,4,14.82,59.28,Cash,Mobile App,Budget Buyers,None,No,High,2026-02-28
+CUST0111,Leah Patel,53,Female,Chicago,Midwest,Student,Home Care,Sponges Pack,2026-01-19,1,14.6,14.6,Credit Card,Mobile App,High Value,Silver,Yes,Medium,2026-02-13
+CUST0127,Ella Iyer,33,Female,Orlando,South,Software Engineer,Snacks,Granola,2026-03-27,2,3.55,7.1,Cash,Store,Family Shoppers,Silver,Yes,Medium,2026-05-23
+CUST0007,Evelyn Martin,35,Male,Miami,South,Software Engineer,Beauty,Makeup Kit,2026-04-19,2,36.91,73.82,UPI/Wallet,Website,Family Shoppers,Silver,Yes,Medium,2026-06-03
+CUST0084,Muhammad Davis,49,Female,San Diego,West,Teacher,Personal Care,Toothpaste,2026-01-16,2,14.22,28.44,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-02-22
+CUST0132,Nora Williams,49,Male,Detroit,Midwest,Operations Manager,Home Care,Dish Soap,2026-05-01,2,12.05,24.1,Credit Card,Website,High Value,Gold,No,High,2026-06-03
+CUST0134,Alexander Wilson,37,Male,Boston,Northeast,Teacher,Home Care,Floor Cleaner,2026-04-07,1,14.77,14.77,Credit Card,Mobile App,Young Professionals,Silver,Yes,High,2026-05-01
+CUST0058,Harper White,25,Female,San Francisco,West,Software Engineer,Groceries,Salmon Fillet,2026-03-11,3,12.82,38.46,Debit Card,Website,Young Professionals,Silver,No,High,2026-03-21
+CUST0022,Noah Taylor,34,Male,Orlando,South,Data Scientist,Groceries,Coffee Beans,2026-03-04,3,2.44,7.32,UPI/Wallet,Store,Young Professionals,Silver,No,Medium,2026-03-11
+CUST0154,Ava Sharma,34,Female,Chicago,Midwest,Designer,Beauty,Face Serum,2026-01-12,1,14.58,14.58,Credit Card,Website,High Value,Gold,No,Medium,2026-01-19
+CUST0127,Ella Iyer,33,Female,Orlando,South,Software Engineer,Personal Care,Hand Cream,2026-02-27,1,14.93,14.93,Debit Card,Website,Family Shoppers,Silver,Yes,Medium,2026-03-31
+CUST0003,Isabella White,49,Female,Chicago,Midwest,Operations Manager,Home Care,Laundry Detergent,2026-05-30,1,6.69,6.69,Cash,Mobile App,Family Shoppers,Silver,No,Medium,2026-06-03
+CUST0127,Ella Iyer,33,Female,Orlando,South,Software Engineer,Beauty,Moisturizer,2026-02-04,1,41.1,41.1,UPI/Wallet,Website,Family Shoppers,Silver,No,Medium,2026-02-10
+CUST0041,Krishna Wilson,29,Male,Los Angeles,West,Nurse,Beauty,Sunscreen,2026-03-20,1,41.35,41.35,Cash,Website,High Value,Gold,No,Medium,2026-04-26
+CUST0106,Liam Jackson,33,Female,Detroit,Midwest,Sales Executive,Beverages,Green Tea,2026-03-21,6,19.81,118.86,Credit Card,Mobile App,Young Professionals,Silver,No,Medium,2026-04-10
+CUST0014,Ethan Lee,49,Male,Nashville,South,Product Manager,Baby Products,Baby Formula,2026-01-27,2,17.37,34.74,Credit Card,Website,High Value,Gold,Yes,High,2026-02-03
+CUST0012,Zoey Johnson,57,Female,Detroit,Midwest,HR Manager,Groceries,Chicken Breast,2026-04-09,2,11.37,22.74,UPI/Wallet,Mobile App,High Value,Gold,Yes,High,2026-05-29
+CUST0087,Amelia Moore,18,Female,Newark,Northeast,Business Owner,Personal Care,Razor Pack,2025-12-13,1,3.45,3.45,Debit Card,Store,High Value,Silver,Yes,Medium,2026-02-04
+CUST0012,Zoey Johnson,57,Female,Detroit,Midwest,HR Manager,Home Care,Air Freshener,2026-03-02,1,3.87,3.87,Credit Card,Mobile App,High Value,Gold,No,High,2026-03-22
+CUST0141,Vivaan Mehta,29,Female,Chicago,Midwest,Sales Executive,Beauty,Face Serum,2026-01-10,1,18.2,18.2,Credit Card,Store,Family Shoppers,None,Yes,Low,2026-03-06
+CUST0025,Liam Davis,26,Female,Newark,Northeast,HR Manager,Home Care,Laundry Detergent,2026-01-22,1,17.89,17.89,Debit Card,Mobile App,Family Shoppers,None,Yes,Low,2026-02-10
+CUST0045,Henry Das,51,Female,Nashville,South,Nurse,Beverages,Kombucha,2026-01-14,2,11.9,23.8,Credit Card,Store,High Value,Silver,No,Medium,2026-01-21
+CUST0122,Isabella Anderson,36,Male,Chicago,Midwest,Marketing Specialist,Personal Care,Toothpaste,2025-12-21,3,15.56,46.68,Credit Card,Website,Family Shoppers,None,Yes,Medium,2026-02-16
+CUST0147,Emma Lee,46,Female,Portland,West,Consultant,Beauty,Sunscreen,2026-03-02,2,40.46,80.92,Credit Card,Store,Family Shoppers,None,Yes,Medium,2026-04-16
+CUST0055,Sai Jackson,32,Male,San Diego,West,Accountant,Home Care,Air Freshener,2025-12-25,2,3.41,6.82,Credit Card,Mobile App,Young Professionals,None,No,Medium,2026-01-24
+CUST0100,Grace White,31,Male,San Diego,West,Data Scientist,Groceries,Salmon Fillet,2026-01-24,1,16.91,16.91,Debit Card,Website,High Value,Gold,Yes,High,2026-03-14
+CUST0173,Amelia Das,26,Male,Chicago,Midwest,Designer,Baby Products,Baby Food Jar,2026-02-01,1,28.91,28.91,Debit Card,Store,Young Professionals,Silver,No,Medium,2026-03-29
+CUST0136,Ava Thomas,29,Female,Orlando,South,Director,Beverages,Electrolyte Drink,2026-05-20,1,13.91,13.91,UPI/Wallet,Mobile App,High Value,Silver,No,Low,2026-06-03
+CUST0119,Benjamin Khan,51,Female,Philadelphia,Northeast,Designer,Personal Care,Hand Cream,2026-01-14,2,8.9,17.8,Credit Card,Mobile App,Family Shoppers,None,No,Low,2026-03-02
+CUST0053,Vihaan Perez,59,Female,New York,Northeast,Teacher,Beverages,Herbal Tea,2026-01-12,2,11.7,23.4,Credit Card,Website,Family Shoppers,Gold,No,Medium,2026-01-20
+CUST0032,Leah Thompson,41,Female,Phoenix,West,Designer,Groceries,Fresh Strawberries,2026-04-24,3,8.19,24.57,Debit Card,Website,Young Professionals,Silver,No,Medium,2026-05-08
+CUST0051,Zoey Sharma,39,Female,San Diego,West,Nurse,Personal Care,Deodorant,2025-12-15,1,4.3,4.3,Debit Card,Mobile App,Young Professionals,Gold,No,Medium,2026-01-13
+CUST0044,Abigail Martinez,45,Female,Los Angeles,West,Data Analyst,Beverages,Herbal Tea,2026-04-30,4,18.17,72.68,Debit Card,Mobile App,High Value,Silver,No,Medium,2026-05-25
+CUST0082,Ethan Wilson,18,Female,Minneapolis,Midwest,HR Manager,Snacks,Cookies Box,2026-04-22,3,5.41,16.23,Credit Card,Mobile App,Budget Buyers,Silver,No,Medium,2026-05-01
+CUST0146,Michael Lee,27,Male,New York,Northeast,Student,Groceries,Frozen Pizza,2026-02-19,3,18.37,55.11,Cash,Store,Budget Buyers,None,No,Medium,2026-03-19
+CUST0150,Nora White,48,Female,San Francisco,West,Manager,Groceries,Fresh Strawberries,2026-04-10,1,12.66,12.66,Credit Card,Website,High Value,Silver,No,Low,2026-06-02
+CUST0037,Harper Khan,18,Male,New York,Northeast,Software Engineer,Groceries,Whole Wheat Bread,2026-01-19,1,6.73,6.73,Debit Card,Store,Budget Buyers,None,No,Medium,2026-02-03
+CUST0096,Krishna Khan,33,Female,Boston,Northeast,Operations Manager,Snacks,Trail Mix,2026-01-18,1,7.53,7.53,UPI/Wallet,Store,Young Professionals,Silver,Yes,High,2026-02-22
+CUST0056,Vihaan Rodriguez,54,Male,Philadelphia,Northeast,Student,Snacks,Protein Bar Pack,2025-12-05,2,8.0,16.0,Debit Card,Website,High Value,Gold,Yes,High,2025-12-24
+CUST0105,Aria Gupta,29,Female,Chicago,Midwest,Director,Home Care,Air Freshener,2026-05-21,3,7.43,22.29,Credit Card,Mobile App,Young Professionals,None,Yes,Medium,2026-06-03
+CUST0059,James Jain,22,Male,San Francisco,West,Marketing Specialist,Beauty,Lipstick,2026-03-22,1,25.02,25.02,Debit Card,Mobile App,Budget Buyers,None,No,Medium,2026-05-14
+CUST0131,Mason Davis,45,Female,San Diego,West,Product Manager,Baby Products,Baby Diapers,2025-12-23,1,25.67,25.67,UPI/Wallet,Mobile App,High Value,Silver,No,Medium,2026-01-28
+CUST0156,Nora Perez,25,Female,Newark,Northeast,Director,Beverages,Electrolyte Drink,2026-02-18,4,14.81,59.24,Credit Card,Store,Family Shoppers,None,No,Medium,2026-03-11
+CUST0035,Krishna Perez,53,Male,Miami,South,Student,Home Care,Dish Soap,2026-02-14,2,8.29,16.58,Credit Card,Website,Family Shoppers,Silver,Yes,Medium,2026-02-20
+CUST0093,Nora Johnson,20,Male,San Francisco,West,Designer,Beverages,Orange Juice,2026-03-23,2,10.8,21.6,Credit Card,Mobile App,Budget Buyers,None,No,High,2026-04-14
+CUST0097,Muhammad Mehta,54,Male,San Francisco,West,Operations Manager,Baby Products,Baby Formula,2025-12-16,1,6.14,6.14,UPI/Wallet,Mobile App,High Value,Gold,Yes,Medium,2026-01-25
+CUST0135,Zoey Taylor,41,Male,San Francisco,West,Student,Beauty,Hair Oil,2026-05-14,1,42.45,42.45,Credit Card,Website,Budget Buyers,None,Yes,High,2026-06-03
+CUST0076,Alexander Singh,54,Female,Phoenix,West,Data Scientist,Snacks,Trail Mix,2026-01-18,2,7.01,14.02,Net Banking,Website,Family Shoppers,Silver,No,Medium,2026-02-15
+CUST0049,Sophia Rodriguez,39,Male,Orlando,South,Designer,Beauty,Hair Oil,2026-03-04,1,29.85,29.85,Debit Card,Mobile App,Young Professionals,None,No,Medium,2026-03-19
+CUST0094,Henry Garcia,29,Male,Newark,Northeast,HR Manager,Snacks,Trail Mix,2026-03-17,3,4.98,14.94,Net Banking,Store,Young Professionals,Silver,No,High,2026-04-23
+CUST0159,Benjamin Wilson,27,Female,Philadelphia,Northeast,Student,Baby Products,Baby Shampoo,2025-12-12,1,10.01,10.01,Cash,Website,Budget Buyers,None,No,High,2026-01-08
+CUST0024,Olivia Davis,50,Male,Dallas,South,Marketing Specialist,Beauty,Makeup Kit,2026-05-06,1,8.37,8.37,Debit Card,Mobile App,High Value,Gold,Yes,Medium,2026-06-03
+CUST0148,Henry Patel,30,Female,San Diego,West,Director,Home Care,Floor Cleaner,2026-03-05,1,16.24,16.24,Credit Card,Store,Family Shoppers,Gold,No,Low,2026-04-11
+CUST0037,Harper Khan,18,Male,New York,Northeast,Software Engineer,Personal Care,Shampoo,2026-05-27,1,5.06,5.06,Credit Card,Mobile App,Budget Buyers,None,Yes,Medium,2026-06-03
+CUST0004,Muhammad Patel,40,Male,Newark,Northeast,Business Owner,Home Care,Glass Cleaner,2026-03-01,2,13.98,27.96,Credit Card,Store,Family Shoppers,Silver,Yes,High,2026-03-14
+CUST0108,Lily Rodriguez,43,Female,Boston,Northeast,HR Manager,Beverages,Coffee Latte,2026-05-11,4,,35.6,UPI/Wallet,Store,Young Professionals,Gold,No,Medium,2026-06-03
+CUST0126,Nora Reddy,21,Male,Portland,West,Teacher,Home Care,Glass Cleaner,2026-05-28,3,12.14,36.42,Credit Card,Website,Budget Buyers,None,No,High,2026-06-03
+CUST0020,Hannah Patel,19,Female,San Francisco,West,Accountant,Baby Products,Baby Food Jar,2026-05-30,1,25.45,25.45,Credit Card,Store,Budget Buyers,None,No,Medium,2026-06-03
+CUST0152,Aarav Perez,52,Male,Los Angeles,West,Student,Groceries,Olive Oil,2026-05-28,1,7.06,7.06,Debit Card,Mobile App,High Value,Gold,No,High,2026-06-03
+CUST0050,Amelia Reddy,42,Male,Seattle,West,Student,Beverages,Coffee Latte,2026-02-26,6,,44.4,Cash,Store,Budget Buyers,None,No,High,2026-04-23
+CUST0177,Mason Garcia,53,Female,Orlando,South,Designer,Beauty,Sunscreen,2026-02-24,1,23.01,23.01,Credit Card,Website,High Value,Gold,Yes,High,2026-03-22
+CUST0179,Ella Anderson,56,Male,Detroit,Midwest,Software Engineer,Beverages,Iced Tea,2026-04-29,2,15.49,30.98,Credit Card,Website,High Value,Gold,No,High,2026-05-22
+CUST0096,Krishna Khan,33,Female,Boston,Northeast,Operations Manager,Personal Care,Hand Cream,2026-02-10,1,4.39,4.39,Credit Card,Store,Young Professionals,Silver,Yes,Low,2026-02-22
+CUST0105,Aria Gupta,29,Female,Chicago,Midwest,Director,Snacks,Chips Combo,2026-05-14,3,5.56,16.68,Cash,Store,Young Professionals,None,Yes,Medium,2026-06-03
+CUST0164,Isabella Williams,21,Male,Chicago,Midwest,Marketing Specialist,Beauty,Perfume,2026-04-10,1,8.76,8.76,Debit Card,Store,Budget Buyers,None,Yes,Medium,2026-05-08
+CUST0117,Sophia Khan,22,Female,Orlando,South,HR Manager,Beverages,Green Tea,2026-05-17,2,10.83,21.66,Credit Card,Mobile App,Budget Buyers,None,No,Medium,2026-06-03
+CUST0098,Olivia Reddy,39,Female,Dallas,South,Data Scientist,Beauty,Skincare Set,2026-02-24,1,31.25,31.25,,Store,Young Professionals,Silver,No,High,2026-04-13
+CUST0066,Muhammad Jackson,57,Male,Minneapolis,Midwest,Data Scientist,Beauty,Body Lotion,2026-04-30,2,21.38,42.76,Credit Card,Website,High Value,Silver,Yes,Medium,2026-06-03
+CUST0079,Lucas Das,26,Male,Miami,South,Accountant,Beauty,Sunscreen,2026-05-09,1,31.39,31.39,Credit Card,Store,Young Professionals,Gold,No,High,2026-06-03
+CUST0162,Grace Garcia,58,Male,Denver,West,Data Analyst,Snacks,Granola,2026-05-21,3,7.16,21.48,Cash,Website,High Value,Silver,No,Low,2026-06-03
+CUST0164,Isabella Williams,21,Male,Chicago,Midwest,Marketing Specialist,Baby Products,Baby Diapers,2026-02-26,1,22.71,22.71,UPI/Wallet,Mobile App,Budget Buyers,None,Yes,Medium,2026-03-05
+CUST0006,Nora Williams,20,Female,San Diego,West,Sales Executive,Home Care,Air Freshener,2026-03-27,1,17.59,17.59,Debit Card,Mobile App,Budget Buyers,None,Yes,High,2026-04-18
+CUST0039,Lucas Martin,33,Female,Austin,South,HR Manager,Beauty,Body Lotion,2026-02-18,1,,13.88,Cash,Website,High Value,Silver,No,High,2026-03-18
+CUST0170,Vivaan Mehta,53,Male,Boston,Northeast,Student,Groceries,Greek Yogurt,2026-04-05,3,3.51,10.53,Credit Card,Store,High Value,Silver,Yes,High,2026-04-09
+CUST0115,Arjun Thompson,40,Female,Seattle,West,Data Scientist,Baby Products,Baby Diapers,2026-04-26,1,8.05,8.05,UPI/Wallet,Mobile App,Family Shoppers,None,No,Medium,2026-06-03
+CUST0125,Ella Moore,22,Female,Boston,Northeast,Product Manager,Personal Care,Toothpaste,2026-01-14,1,15.61,15.61,Cash,Website,Budget Buyers,Silver,Yes,Low,2026-01-20
+CUST0012,Zoey Johnson,57,Female,Detroit,Midwest,HR Manager,Snacks,Dark Chocolate,2026-05-20,1,1.34,1.34,Credit Card,Mobile App,High Value,Gold,No,High,2026-06-03
+CUST0131,Mason Davis,45,Female,San Diego,West,Product Manager,Beverages,Sports Drink,2025-12-06,1,3.7,3.7,UPI/Wallet,Store,High Value,Silver,No,Medium,2026-01-10
+CUST0018,Ethan Singh,44,Female,Orlando,South,Data Analyst,Snacks,Gummies,2026-01-02,1,8.32,8.32,Credit Card,Website,Young Professionals,None,No,High,2026-02-11
+CUST0040,Sophia Gupta,31,Male,Atlanta,South,HR Manager,Beverages,Kombucha,2026-03-19,4,3.26,13.04,Credit Card,Mobile App,Young Professionals,Silver,No,High,2026-04-14
+CUST0021,Vivaan Mehta,43,Female,Seattle,West,Business Owner,Snacks,Popcorn,2026-01-24,2,8.38,16.76,Credit Card,Mobile App,Family Shoppers,None,No,Low,2026-03-22
+CUST0143,Henry Wilson,18,Female,Newark,Northeast,HR Manager,Beverages,Sparkling Water,2026-02-17,2,11.44,22.88,Debit Card,Mobile App,Budget Buyers,None,No,Low,2026-04-03
+CUST0099,Chloe Martinez,46,Male,Dallas,South,Manager,Beauty,Eyeliner,2025-12-14,1,25.85,25.85,UPI/Wallet,Website,Family Shoppers,None,No,Medium,2025-12-15
+CUST0026,Lucas Sharma,56,Female,Dallas,South,HR Manager,Home Care,Paper Towels,2026-04-25,3,8.81,26.43,Cash,Mobile App,High Value,Silver,Yes,Medium,2026-05-19
+CUST0008,Mason Mehta,42,Female,San Diego,West,Operations Manager,Beverages,Coffee Latte,2026-01-24,4,1.31,5.24,Debit Card,Mobile App,Young Professionals,Gold,No,Medium,2026-02-01
+CUST0100,Grace White,31,Male,San Diego,West,Data Scientist,Beverages,Kombucha,2026-04-01,4,3.36,13.44,Cash,Store,High Value,Gold,Yes,Medium,2026-05-23
+CUST0087,Amelia Moore,18,Female,Newark,Northeast,Business Owner,Groceries,Fresh Strawberries,2026-04-04,3,14.13,42.39,UPI/Wallet,Store,High Value,Silver,No,Low,2026-04-30
+CUST0042,James Martinez,40,Female,Boston,Northeast,Teacher,Beverages,Herbal Tea,2026-01-12,3,2.85,8.55,Credit Card,Website,Family Shoppers,None,Yes,Medium,2026-01-12
+CUST0172,Leah Perez,54,Female,New York,Northeast,HR Manager,Groceries,Frozen Pizza,2026-01-01,3,11.77,35.31,Debit Card,Store,Family Shoppers,Silver,No,Medium,2026-01-23
+CUST0014,Ethan Lee,49,Male,Nashville,South,Product Manager,Personal Care,Hand Sanitizer,2025-12-07,1,10.55,10.55,Credit Card,Mobile App,High Value,Gold,Yes,High,2025-12-16
+CUST0078,Aarav Thomas,40,Female,Chicago,Midwest,Product Manager,Beauty,Body Lotion,2026-02-26,1,23.9,23.9,UPI/Wallet,Website,High Value,Gold,No,Medium,2026-04-08
+CUST0002,Alexander Wilson,38,Female,San Diego,West,Accountant,Groceries,Frozen Pizza,2026-05-08,1,11.39,11.39,Cash,Website,Family Shoppers,None,No,Medium,2026-06-03
+CUST0119,Benjamin Khan,51,Female,Philadelphia,Northeast,Designer,Home Care,Floor Cleaner,2026-03-31,2,17.42,34.84,Credit Card,Website,Family Shoppers,None,No,Medium,2026-04-24
+CUST0037,Harper Khan,18,Male,New York,Northeast,Software Engineer,Baby Products,Baby Formula,2025-12-06,1,28.81,28.81,UPI/Wallet,Mobile App,Budget Buyers,None,No,Medium,2026-01-28
+CUST0069,Aria Garcia,59,Female,Los Angeles,West,HR Manager,Beauty,Sunscreen,2026-03-07,2,40.54,81.08,Debit Card,Website,High Value,Silver,Yes,High,2026-05-06
+CUST0166,Ella White,46,Female,Atlanta,South,Software Engineer,Groceries,Whole Wheat Bread,2026-05-19,2,15.38,30.76,Debit Card,Mobile App,High Value,Gold,No,High,2026-05-21
+CUST0041,Krishna Wilson,29,Male,Los Angeles,West,Nurse,Beauty,Hair Oil,2026-04-14,2,19.71,39.42,Credit Card,Website,High Value,Gold,No,High,2026-04-19
+CUST0062,Zoey Perez,23,Female,Boston,Northeast,Student,Beauty,Body Lotion,2026-04-27,1,26.56,26.56,Credit Card,Mobile App,Budget Buyers,None,Yes,High,2026-06-03
+CUST0060,Chloe Gupta,56,Female,Los Angeles,West,Accountant,Beauty,Makeup Kit,2026-03-08,2,19.58,39.16,Credit Card,Mobile App,Family Shoppers,Silver,No,Medium,2026-05-04
+CUST0125,Ella Moore,22,Female,Boston,Northeast,Product Manager,Personal Care,Toothpaste,2026-01-13,3,15.61,46.83,Credit Card,Mobile App,Budget Buyers,Silver,Yes,Medium,2026-01-18
+CUST0111,Leah Patel,53,Female,Chicago,Midwest,Student,Home Care,Trash Bags,2025-12-06,1,12.42,12.42,Credit Card,Mobile App,High Value,Silver,Yes,Low,2026-01-27
+CUST0014,Ethan Lee,49,Male,Nashville,South,Product Manager,Snacks,Protein Bar Pack,2026-02-23,1,2.79,2.79,Debit Card,Website,High Value,Gold,No,High,2026-02-24
+CUST0084,Muhammad Davis,49,Female,San Diego,West,Teacher,Snacks,Popcorn,2026-05-22,2,1.22,2.44,Credit Card,Mobile App,High Value,Gold,Yes,High,2026-06-03
+CUST0130,Leah Sharma,19,Female,Detroit,Midwest,Director,Groceries,Olive Oil,2025-12-16,2,5.42,10.84,Cash,Store,Budget Buyers,Silver,No,High,2026-02-11
+CUST0070,Noah Patel,47,Female,Orlando,South,Accountant,Beauty,Moisturizer,2026-05-16,1,42.59,42.59,Debit Card,Mobile App,High Value,Gold,No,High,2026-06-02
+CUST0145,Abigail Reddy,57,Male,Portland,West,Nurse,Groceries,Pasta,2026-02-07,2,19.5,39.0,UPI/Wallet,Mobile App,Family Shoppers,Gold,Yes,High,2026-03-01
+CUST0123,James Davis,49,Male,Newark,Northeast,Sales Executive,Personal Care,Toothpaste,2026-01-28,1,5.95,5.95,Debit Card,Website,Family Shoppers,None,No,Medium,2026-01-29
+CUST0089,Lily Moore,56,Male,Philadelphia,Northeast,Operations Manager,Personal Care,Face Wash,2026-01-18,1,3.34,3.34,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-01-29
+CUST0028,Henry Perez,59,Female,Philadelphia,Northeast,HR Manager,Beverages,Iced Tea,2026-03-15,1,13.87,13.87,Cash,Website,High Value,Gold,Yes,High,2026-04-05
+CUST0066,Muhammad Jackson,57,Male,Minneapolis,Midwest,Data Scientist,Personal Care,Deodorant,2026-02-04,1,5.29,5.29,Credit Card,Website,High Value,Silver,Yes,Medium,2026-03-12
+CUST0163,Ethan Garcia,24,Male,Miami,South,Marketing Specialist,Beverages,Coffee Latte,2026-01-22,4,19.66,78.64,Credit Card,Mobile App,Budget Buyers,None,Yes,Medium,2026-02-10
+CUST0005,Noah Anderson,50,Female,Miami,South,Product Manager,Home Care,Sponges Pack,2026-04-10,1,14.0,14.0,UPI/Wallet,Mobile App,High Value,Gold,Yes,High,2026-05-18
+CUST0168,Olivia Jones,42,Male,Nashville,South,Nurse,Groceries,Chicken Breast,2026-05-06,3,17.51,52.53,Credit Card,Mobile App,High Value,Gold,Yes,High,2026-05-29
+CUST0164,Isabella Williams,21,Male,Chicago,Midwest,Marketing Specialist,Baby Products,Baby Lotion,2025-12-27,5,20.03,100.15,Credit Card,Mobile App,Budget Buyers,None,No,Medium,2026-02-12
+CUST0045,Henry Das,51,Female,Nashville,South,Nurse,Home Care,Toilet Cleaner,2026-05-05,3,7.88,23.64,Credit Card,Mobile App,High Value,Silver,No,High,2026-05-24
+CUST0151,Grace Sharma,19,Female,New York,Northeast,HR Manager,Personal Care,Deodorant,2026-01-11,1,16.64,16.64,Credit Card,Mobile App,Budget Buyers,None,No,High,2026-01-11
+CUST0047,Muhammad Reddy,49,Male,San Francisco,West,Marketing Specialist,Home Care,Sponges Pack,2026-01-01,3,9.75,29.25,Debit Card,Mobile App,High Value,Gold,No,Medium,2026-01-01
+CUST0031,Aditya Davis,42,Male,Phoenix,West,Student,Home Care,Glass Cleaner,2025-12-25,2,4.55,9.1,Credit Card,Website,Budget Buyers,None,No,Medium,2026-01-10
+CUST0139,Liam White,50,Female,Nashville,South,Nurse,Home Care,Trash Bags,2026-03-21,2,17.68,35.36,Cash,Website,High Value,Gold,Yes,Medium,2026-05-18
+CUST0010,Emma Khan,48,Female,Chicago,Midwest,Data Analyst,Personal Care,Deodorant,2026-04-29,2,5.04,10.08,UPI/Wallet,Website,Family Shoppers,None,No,Medium,2026-04-29
+CUST0118,Nora Sharma,53,Male,Austin,South,Designer,Baby Products,Baby Formula,2026-05-17,2,10.11,20.22,UPI/Wallet,Mobile App,High Value,Gold,No,High,2026-06-03
+CUST0014,Ethan Lee,49,Male,Nashville,South,Product Manager,Beauty,Eyeliner,2026-03-13,1,10.74,10.74,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-05-03
+CUST0080,Reyansh Das,29,Female,Minneapolis,Midwest,Product Manager,Home Care,Sponges Pack,2026-05-26,2,10.75,21.5,Cash,Store,Young Professionals,Gold,No,Medium,2026-06-03
+CUST0093,Nora Johnson,20,Male,San Francisco,West,Designer,Beverages,Orange Juice,2026-04-02,2,12.98,25.96,Credit Card,Website,Budget Buyers,None,No,High,2026-05-01
+CUST0010,Emma Khan,48,Female,Chicago,Midwest,Data Analyst,Personal Care,Face Wash,2026-02-15,1,13.04,13.04,Cash,Store,Family Shoppers,None,No,Low,2026-03-27
+CUST0076,Alexander Singh,54,Female,Phoenix,West,Data Scientist,Home Care,Laundry Detergent,2026-06-03,1,11.93,11.93,UPI/Wallet,Mobile App,Family Shoppers,Silver,No,Medium,2026-06-03
+CUST0094,Henry Garcia,29,Male,Newark,Northeast,HR Manager,Baby Products,Baby Formula,2026-04-05,1,28.14,28.14,UPI/Wallet,Website,Young Professionals,Silver,Yes,Medium,2026-04-07
+CUST0105,Aria Gupta,29,Female,Chicago,Midwest,Director,Beauty,Perfume,2026-01-03,1,23.92,23.92,Debit Card,Website,Young Professionals,None,Yes,High,2026-02-17
+CUST0001,Nora Sharma,50,Male,Phoenix,West,Director,Personal Care,Razor Pack,2026-03-22,1,9.33,9.33,Credit Card,Mobile App,High Value,Gold,Yes,High,2026-05-15
+CUST0133,Isabella Lee,44,Male,Phoenix,West,Nurse,Snacks,Dark Chocolate,2026-03-12,2,7.09,14.18,Debit Card,Website,High Value,Gold,No,High,2026-03-22
+CUST0020,Hannah Patel,19,Female,San Francisco,West,Accountant,Beauty,Body Lotion,2026-01-05,1,34.04,34.04,UPI/Wallet,Website,Budget Buyers,None,Yes,Medium,2026-01-28
+CUST0008,Mason Mehta,42,Female,San Diego,West,Operations Manager,Beverages,Herbal Tea,2026-05-09,2,11.71,23.42,Credit Card,Mobile App,Young Professionals,Gold,No,High,2026-05-30
+CUST0171,Aditya Gupta,27,Male,Portland,West,Data Analyst,Home Care,Laundry Detergent,2026-05-25,2,13.08,26.16,UPI/Wallet,Mobile App,High Value,Gold,Yes,Medium,2026-06-03
+CUST0001,Nora Sharma,50,Male,Phoenix,West,Director,Baby Products,Baby Wipes,2026-02-21,1,18.14,18.14,Credit Card,Store,High Value,Gold,Yes,High,2026-04-06
+CUST0057,Alexander Thomas,50,Female,Portland,West,Data Scientist,Snacks,Dark Chocolate,2026-01-14,1,1.02,1.02,Credit Card,Store,High Value,Gold,No,High,2026-02-08
+CUST0064,Charlotte Martin,47,Male,Los Angeles,West,Consultant,Baby Products,Baby Food Jar,2026-02-05,2,7.93,15.86,Credit Card,Mobile App,High Value,Gold,No,Medium,2026-02-17
+CUST0118,Nora Sharma,53,Male,Austin,South,Designer,Snacks,Gummies,2025-12-27,1,7.73,7.73,Credit Card,Mobile App,High Value,Gold,Yes,Medium,2025-12-27
+CUST0028,Henry Perez,59,Female,Philadelphia,Northeast,HR Manager,Personal Care,Razor Pack,2026-03-18,1,17.02,17.02,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-04-10
+CUST0121,Isabella Jones,27,Male,Dallas,South,Sales Executive,Snacks,Popcorn,2026-02-17,2,9.5,19.0,Credit Card,Website,Young Professionals,Silver,No,Low,2026-02-26
+CUST0107,Benjamin Thompson,43,Female,Portland,West,Business Owner,Beverages,Kombucha,2026-01-21,1,8.1,8.1,Net Banking,Mobile App,High Value,Gold,Yes,High,2026-02-24
+CUST0165,Ella Perez,28,Female,Miami,South,Business Owner,Beverages,Iced Tea,2026-05-13,2,12.92,25.84,Debit Card,Store,Family Shoppers,None,Yes,Low,2026-06-03
+CUST0175,Vivaan Moore,52,Female,San Diego,West,Data Analyst,Groceries,Organic Milk,2026-01-30,2,20.69,41.38,Credit Card,Mobile App,High Value,Gold,No,High,2026-02-26
+CUST0165,Ella Perez,28,Female,Miami,South,Business Owner,Beverages,Green Tea,2026-04-01,1,18.85,18.85,UPI/Wallet,Mobile App,Family Shoppers,None,No,Medium,2026-05-06
+CUST0049,Sophia Rodriguez,39,Male,Orlando,South,Designer,Beauty,Skincare Set,2026-03-14,1,34.85,34.85,Cash,Website,Young Professionals,None,Yes,Low,2026-03-29
+CUST0120,Krishna Sharma,48,Female,Phoenix,West,Sales Executive,Snacks,Chips Combo,2026-04-07,1,9.13,9.13,UPI/Wallet,Store,High Value,Silver,No,Medium,2026-05-16
+CUST0044,Abigail Martinez,45,Female,Los Angeles,West,Data Analyst,Beverages,Premium Coffee Pods,2026-05-14,2,13.63,27.26,Credit Card,Website,High Value,Silver,No,Medium,2026-05-29
+CUST0056,Vihaan Rodriguez,54,Male,Philadelphia,Northeast,Student,Personal Care,Vitamin C Tablets,2026-05-05,1,13.89,13.89,Cash,Mobile App,High Value,Gold,No,High,2026-06-03
+CUST0156,Nora Perez,25,Female,Newark,Northeast,Director,Baby Products,Baby Formula,2026-05-20,1,27.25,27.25,UPI/Wallet,Store,Family Shoppers,None,No,Low,2026-06-03
+CUST0111,Leah Patel,53,Female,Chicago,Midwest,Student,Baby Products,Baby Diapers,2026-01-07,4,25.18,100.72,Credit Card,Mobile App,High Value,Silver,No,High,2026-02-26
+CUST0134,Alexander Wilson,37,Male,Boston,Northeast,Teacher,Groceries,Coffee Beans,2026-05-09,2,18.25,36.5,Credit Card,Store,Young Professionals,Silver,No,High,2026-06-03
+CUST0108,Lily Rodriguez,43,Female,Boston,Northeast,HR Manager,Baby Products,Baby Lotion,2026-05-18,5,15.96,79.8,Debit Card,Mobile App,Young Professionals,Gold,No,High,2026-06-01
+CUST0148,Henry Patel,30,Female,San Diego,West,Director,Snacks,Protein Bar Pack,2025-12-11,2,3.52,7.04,Credit Card,Store,Family Shoppers,Gold,Yes,High,2025-12-26
+CUST0114,Aarav Davis,54,Female,Detroit,Midwest,Business Owner,Groceries,Organic Milk,2026-05-18,3,15.25,45.75,UPI/Wallet,Website,High Value,Silver,No,Medium,2026-06-01
+CUST0078,Aarav Thomas,40,Female,Chicago,Midwest,Product Manager,Snacks,Chips Combo,2026-01-29,3,3.24,9.72,Credit Card,Mobile App,High Value,Gold,No,High,2026-03-26
+CUST0130,Leah Sharma,19,Female,Detroit,Midwest,Director,Personal Care,Hand Sanitizer,2026-02-07,1,15.09,15.09,,Store,Budget Buyers,Silver,Yes,Medium,2026-03-12
+CUST0037,Harper Khan,18,Male,New York,Northeast,Software Engineer,Groceries,Salmon Fillet,2026-01-20,1,20.19,20.19,Debit Card,Mobile App,Budget Buyers,None,Yes,High,2026-01-30
+CUST0020,Hannah Patel,19,Female,San Francisco,West,Accountant,Home Care,Air Freshener,2026-05-01,1,8.34,8.34,Credit Card,Mobile App,Budget Buyers,None,No,High,2026-05-01
+CUST0026,Lucas Sharma,56,Female,Dallas,South,HR Manager,Beauty,Moisturizer,2025-12-23,2,10.85,21.7,Credit Card,Website,High Value,Silver,No,Medium,2026-01-06
+CUST0029,Mia Lee,43,Male,Philadelphia,Northeast,Business Owner,Beauty,Face Serum,2026-05-10,1,21.13,21.13,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-06-03
+CUST0001,Nora Sharma,50,Male,Phoenix,West,Director,Snacks,Gummies,2026-04-29,2,3.37,6.74,UPI/Wallet,Website,High Value,Gold,No,Medium,2026-06-03
+CUST0119,Benjamin Khan,51,Female,Philadelphia,Northeast,Designer,Baby Products,Baby Shampoo,2026-05-16,2,19.87,39.74,UPI/Wallet,Mobile App,Family Shoppers,None,Yes,Medium,2026-05-19
+CUST0035,Krishna Perez,53,Male,Miami,South,Student,Home Care,Glass Cleaner,2026-05-24,3,8.0,24.0,Credit Card,Mobile App,Family Shoppers,Silver,No,High,2026-06-03
+CUST0059,James Jain,22,Male,San Francisco,West,Marketing Specialist,Groceries,Whole Wheat Bread,2026-04-09,2,9.36,18.72,Credit Card,Mobile App,Budget Buyers,None,No,High,2026-04-13
+CUST0069,Aria Garcia,59,Female,Los Angeles,West,HR Manager,Home Care,Air Freshener,2026-04-22,2,7.25,14.5,Credit Card,Mobile App,High Value,Silver,Yes,Medium,2026-05-26
+CUST0161,Leah Gupta,51,Female,Detroit,Midwest,Nurse,Home Care,Toilet Cleaner,2026-01-22,2,8.96,17.92,UPI/Wallet,Website,Family Shoppers,Gold,Yes,Medium,2026-02-03
+CUST0179,Ella Anderson,56,Male,Detroit,Midwest,Software Engineer,Baby Products,Baby Wipes,2026-03-27,5,11.33,56.65,Credit Card,Store,High Value,Gold,No,Medium,2026-04-05
+CUST0012,Zoey Johnson,57,Female,Detroit,Midwest,HR Manager,Groceries,Fresh Strawberries,2026-01-11,3,7.48,22.44,Debit Card,Store,High Value,Gold,Yes,High,2026-01-21
+CUST0020,Hannah Patel,19,Female,San Francisco,West,Accountant,Personal Care,Conditioner,2026-02-06,1,8.84,8.84,Debit Card,Store,Budget Buyers,None,Yes,Low,2026-02-23
+CUST0043,Vivaan Iyer,32,Male,San Diego,West,Teacher,Baby Products,Baby Formula,2026-02-11,1,24.99,24.99,Cash,Mobile App,Young Professionals,Silver,No,High,2026-03-16
+CUST0126,Nora Reddy,21,Male,Portland,West,Teacher,Home Care,Disinfectant Spray,2026-04-19,3,15.98,47.94,Credit Card,Mobile App,Budget Buyers,None,No,Medium,2026-05-27
+CUST0050,Amelia Reddy,42,Male,Seattle,West,Student,Home Care,Air Freshener,2026-05-15,1,15.9,15.9,Credit Card,Mobile App,Budget Buyers,None,No,Medium,2026-06-03
+CUST0029,Mia Lee,43,Male,Philadelphia,Northeast,Business Owner,Personal Care,Face Wash,2026-05-29,1,14.6,14.6,UPI/Wallet,Mobile App,High Value,Gold,No,Medium,2026-06-03
+CUST0039,Lucas Martin,33,Female,Austin,South,HR Manager,Home Care,Paper Towels,2026-03-30,2,16.11,32.22,Debit Card,Website,High Value,Silver,Yes,High,2026-05-18
+CUST0171,Aditya Gupta,27,Male,Portland,West,Data Analyst,Home Care,Air Freshener,2026-02-07,2,15.5,31.0,Credit Card,Mobile App,High Value,Gold,No,High,2026-03-01
+CUST0178,Leah Jones,35,Female,San Francisco,West,HR Manager,Home Care,Sponges Pack,2026-01-04,1,11.03,11.03,Cash,Mobile App,Young Professionals,None,No,High,2026-01-10
+CUST0151,Grace Sharma,19,Female,New York,Northeast,HR Manager,Beauty,Perfume,2026-04-15,1,37.01,37.01,UPI/Wallet,Store,Budget Buyers,None,No,Medium,2026-06-03
+CUST0172,Leah Perez,54,Female,New York,Northeast,HR Manager,Baby Products,Baby Formula,2026-03-27,3,17.5,52.5,Credit Card,Website,Family Shoppers,Silver,No,High,2026-05-04
+CUST0038,Vihaan Wilson,25,Female,Chicago,Midwest,Business Owner,Beverages,Green Tea,2026-03-23,1,12.38,12.38,Credit Card,Mobile App,High Value,Gold,No,High,2026-03-25
+CUST0084,Muhammad Davis,49,Female,San Diego,West,Teacher,Baby Products,Baby Shampoo,2026-05-31,2,19.76,39.52,Debit Card,Mobile App,High Value,Gold,No,Medium,2026-06-03
+CUST0151,Grace Sharma,19,Female,New York,Northeast,HR Manager,Personal Care,Toothpaste,2026-02-11,1,9.51,9.51,UPI/Wallet,Mobile App,Budget Buyers,None,Yes,Low,2026-02-17
+CUST0128,Vihaan Gupta,41,Male,Newark,Northeast,Nurse,Home Care,Sponges Pack,2026-05-11,1,6.15,6.15,Credit Card,Store,Young Professionals,Gold,No,Medium,2026-06-03
+CUST0126,Nora Reddy,21,Male,Portland,West,Teacher,Baby Products,Baby Food Jar,2026-04-03,1,22.82,22.82,UPI/Wallet,Mobile App,Budget Buyers,None,No,Low,2026-04-28
+CUST0045,Henry Das,51,Female,Nashville,South,Nurse,Beauty,Sunscreen,2026-03-02,2,23.12,46.24,Debit Card,Mobile App,High Value,Silver,No,Medium,2026-04-03
+CUST0052,Aria Johnson,39,Female,Newark,Northeast,Data Scientist,Personal Care,Hand Sanitizer,2026-02-09,1,3.79,3.79,Credit Card,Mobile App,Family Shoppers,Silver,No,Medium,2026-03-17
+CUST0080,Reyansh Das,29,Female,Minneapolis,Midwest,Product Manager,Snacks,Energy Bar,2026-02-17,4,9.65,38.6,UPI/Wallet,Website,Young Professionals,Gold,No,Medium,2026-04-05
+CUST0178,Leah Jones,35,Female,San Francisco,West,HR Manager,Baby Products,Baby Shampoo,2026-01-18,3,23.67,71.01,Cash,Mobile App,Young Professionals,None,No,Medium,2026-02-01
+CUST0124,Ava Martinez,18,Female,Detroit,Midwest,Data Analyst,Snacks,Granola,2025-12-08,2,10.09,20.18,Credit Card,Store,Budget Buyers,None,No,Low,2025-12-09
+CUST0119,Benjamin Khan,51,Female,Philadelphia,Northeast,Designer,Home Care,Floor Cleaner,2026-05-07,1,15.09,15.09,Credit Card,Store,Family Shoppers,None,No,Medium,2026-06-03
+CUST0008,Mason Mehta,42,Female,San Diego,West,Operations Manager,Beauty,Body Lotion,2026-05-08,1,42.21,42.21,Debit Card,Store,Young Professionals,Gold,No,Medium,2026-05-14
+CUST0085,Ethan Gupta,42,Female,Nashville,South,HR Manager,Beauty,Skincare Set,2026-05-27,1,28.48,28.48,Cash,Mobile App,Young Professionals,None,No,Medium,2026-06-03
+CUST0129,Michael Garcia,33,Female,San Francisco,West,Software Engineer,Baby Products,Baby Wipes,2026-03-21,1,23.56,23.56,Net Banking,Store,Family Shoppers,Silver,No,Medium,2026-03-24
+CUST0008,Mason Mehta,42,Female,San Diego,West,Operations Manager,Personal Care,Vitamin C Tablets,2026-01-24,2,15.96,31.92,Debit Card,Website,Young Professionals,Gold,No,Medium,2026-02-12
+CUST0157,Sai Thompson,46,Female,Nashville,South,Teacher,Personal Care,Shampoo,2026-01-23,2,5.46,10.92,UPI/Wallet,Mobile App,Family Shoppers,Silver,No,High,2026-03-13
+CUST0096,Krishna Khan,33,Female,Boston,Northeast,Operations Manager,Beauty,Moisturizer,2025-12-10,1,37.1,37.1,Debit Card,Website,Young Professionals,Silver,No,Medium,2026-01-31
+CUST0102,Ethan Davis,22,Male,Phoenix,West,Accountant,Personal Care,Razor Pack,2026-02-01,1,7.98,7.98,Debit Card,Mobile App,Budget Buyers,None,No,Low,2026-03-08
+CUST0005,Noah Anderson,50,Female,Miami,South,Product Manager,Beauty,Skincare Set,2026-04-08,1,16.58,16.58,Credit Card,Mobile App,High Value,Gold,No,Medium,2026-05-09
+CUST0086,Emma Martinez,57,Female,Portland,West,Designer,Baby Products,Baby Lotion,2026-04-26,1,27.59,27.59,Credit Card,Website,Family Shoppers,Gold,No,Medium,2026-05-23
+CUST0175,Vivaan Moore,52,Female,San Diego,West,Data Analyst,Beverages,Sparkling Water,2026-01-03,2,16.75,33.5,Credit Card,Mobile App,High Value,Gold,Yes,Medium,2026-01-15
+CUST0034,Noah Martinez,24,Female,Denver,West,Director,Beauty,Skincare Set,2026-05-23,2,27.3,54.6,Debit Card,Website,Budget Buyers,None,Yes,High,2026-05-23
+CUST0055,Sai Jackson,32,Male,San Diego,West,Accountant,Snacks,Protein Bar Pack,2026-04-05,2,10.73,21.46,Credit Card,Mobile App,Young Professionals,None,No,Medium,2026-06-03
+CUST0119,Benjamin Khan,51,Female,Philadelphia,Northeast,Designer,Personal Care,Vitamin C Tablets,2026-04-08,1,9.39,9.39,Cash,Store,Family Shoppers,None,No,Medium,2026-06-02
+CUST0171,Aditya Gupta,27,Male,Portland,West,Data Analyst,Beauty,Sunscreen,2026-01-10,1,8.49,8.49,Credit Card,Store,High Value,Gold,No,High,2026-02-13
+CUST0158,Muhammad Davis,43,Female,Orlando,South,Data Scientist,Beauty,Perfume,2026-05-23,1,24.99,24.99,Credit Card,Store,Young Professionals,Gold,No,High,2026-06-03
+CUST0114,Aarav Davis,54,Female,Detroit,Midwest,Business Owner,Baby Products,Baby Lotion,2026-04-07,2,23.05,46.1,Debit Card,Mobile App,High Value,Silver,No,High,2026-05-06
+CUST0145,Abigail Reddy,57,Male,Portland,West,Nurse,Personal Care,Hand Cream,2026-03-15,1,9.83,9.83,UPI/Wallet,Mobile App,Family Shoppers,Gold,No,Medium,2026-05-07
+CUST0026,Lucas Sharma,56,Female,Dallas,South,HR Manager,Beverages,Energy Drink Pack,2026-01-08,4,15.07,60.28,Credit Card,Website,High Value,Silver,No,High,2026-02-12
+CUST0136,Ava Thomas,29,Female,Orlando,South,Director,Baby Products,Baby Diapers,2026-03-01,3,18.3,54.9,Credit Card,Mobile App,High Value,Silver,No,Medium,2026-04-26
+CUST0047,Muhammad Reddy,49,Male,San Francisco,West,Marketing Specialist,Beverages,Electrolyte Drink,2026-04-17,2,6.64,13.28,Net Banking,Mobile App,High Value,Gold,Yes,Medium,2026-06-03
+CUST0113,Aditya Gupta,47,Female,Detroit,Midwest,Accountant,Baby Products,Baby Wipes,2025-12-22,2,13.63,27.26,Credit Card,Website,High Value,Silver,No,Medium,2026-01-15
+CUST0076,Alexander Singh,54,Female,Phoenix,West,Data Scientist,Personal Care,Body Wash,2026-03-27,2,13.72,27.44,Credit Card,Website,Family Shoppers,Silver,No,Medium,2026-04-11
+CUST0072,Harper Davis,34,Male,Nashville,South,Data Scientist,Groceries,Basmati Rice 5lb,2026-01-02,2,3.99,7.98,UPI/Wallet,Store,High Value,Silver,No,Medium,2026-02-28
+CUST0089,Lily Moore,56,Male,Philadelphia,Northeast,Operations Manager,Personal Care,Body Wash,2026-02-19,1,11.31,11.31,Credit Card,Mobile App,High Value,Gold,No,High,2026-03-09
+CUST0046,Reyansh Sharma,19,Male,Austin,South,HR Manager,Personal Care,Face Wash,2026-02-01,1,5.39,5.39,Debit Card,Mobile App,Budget Buyers,None,Yes,Medium,2026-02-01
+CUST0033,Reyansh Gupta,30,Male,Chicago,Midwest,Student,Beverages,Premium Coffee Pods,2026-05-28,1,4.17,4.17,Credit Card,Mobile App,Budget Buyers,None,Yes,Low,2026-06-01
+CUST0001,Nora Sharma,50,Male,Phoenix,West,Director,Beverages,Coffee Latte,2026-04-09,2,6.08,12.16,Credit Card,Store,High Value,Gold,Yes,High,2026-05-29
+CUST0147,Emma Lee,46,Female,Portland,West,Consultant,Personal Care,Face Wash,2026-04-28,2,13.99,27.98,Credit Card,Store,Family Shoppers,None,Yes,High,2026-05-19
+CUST0031,Aditya Davis,42,Male,Phoenix,West,Student,Personal Care,Face Wash,2026-03-23,1,17.78,17.78,Credit Card,Store,Budget Buyers,None,Yes,Medium,2026-04-15
+CUST0142,Sai Brown,20,Female,Detroit,Midwest,Director,Personal Care,Razor Pack,2025-12-26,2,14.06,28.12,Credit Card,Store,Budget Buyers,None,No,Low,2026-02-06
+CUST0053,Vihaan Perez,59,Female,New York,Northeast,Teacher,Beverages,Energy Drink Pack,2026-02-10,2,13.9,27.8,Credit Card,Website,Family Shoppers,Gold,No,Medium,2026-03-26
+CUST0048,Lily Iyer,40,Female,San Francisco,West,Designer,Personal Care,Deodorant,2026-02-11,1,14.06,14.06,UPI/Wallet,Website,Family Shoppers,None,No,Medium,2026-04-03
+CUST0069,Aria Garcia,59,Female,Los Angeles,West,HR Manager,Personal Care,Deodorant,2026-05-18,1,7.24,7.24,Credit Card,Mobile App,High Value,Silver,Yes,Low,2026-06-03
+CUST0105,Aria Gupta,29,Female,Chicago,Midwest,Director,Home Care,Paper Towels,2026-01-22,1,11.63,11.63,Debit Card,Website,Young Professionals,None,Yes,High,2026-03-15
+CUST0090,Lily Sharma,22,Female,Austin,South,Consultant,Groceries,Coffee Beans,2026-04-24,2,20.87,41.74,Cash,Website,Budget Buyers,None,Yes,High,2026-05-29
+CUST0063,Sophia Davis,49,Male,Nashville,South,Teacher,Snacks,Nuts Mix,2026-05-15,4,6.45,25.8,UPI/Wallet,Website,High Value,Silver,Yes,Medium,2026-06-03
+CUST0073,Ethan White,36,Male,Denver,West,Operations Manager,Groceries,Salmon Fillet,2026-03-23,4,10.5,42.0,Credit Card,Store,High Value,Gold,No,High,2026-03-26
+CUST0161,Leah Gupta,51,Female,Detroit,Midwest,Nurse,Home Care,Paper Towels,2026-02-28,1,10.68,10.68,Cash,Store,Family Shoppers,Gold,Yes,High,2026-04-04
+CUST0169,Nora Anderson,38,Male,Dallas,South,HR Manager,Snacks,Chips Combo,2026-01-26,3,9.41,28.23,Credit Card,Store,High Value,Gold,No,Medium,2026-03-18
+CUST0089,Lily Moore,56,Male,Philadelphia,Northeast,Operations Manager,Baby Products,Baby Wipes,2026-04-06,5,24.32,121.6,Credit Card,Store,High Value,Gold,Yes,High,2026-05-28
+CUST0176,Henry Thompson,52,Male,Austin,South,Student,Personal Care,Toothpaste,2026-03-01,2,14.42,28.84,UPI/Wallet,Website,High Value,Gold,Yes,High,2026-03-18
+CUST0013,Aria Moore,41,Male,Boston,Northeast,HR Manager,Home Care,Air Freshener,2026-06-01,2,15.86,31.72,Debit Card,Mobile App,Young Professionals,None,No,High,2026-06-03
+CUST0073,Ethan White,36,Male,Denver,West,Operations Manager,Baby Products,Baby Food Jar,2026-04-14,4,15.2,60.8,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-04-29
+CUST0077,Isabella Lee,43,Male,San Francisco,West,Data Scientist,Personal Care,Conditioner,2026-01-15,2,5.55,11.1,Credit Card,Website,Young Professionals,Silver,Yes,High,2026-02-24
+CUST0159,Benjamin Wilson,27,Female,Philadelphia,Northeast,Student,Beverages,Iced Tea,2026-03-12,3,17.75,53.25,Debit Card,Website,Budget Buyers,None,Yes,Low,2026-03-29
+CUST0068,Mason Perez,30,Female,San Francisco,West,Designer,Beauty,Perfume,2026-05-13,2,33.8,67.6,Credit Card,Mobile App,Family Shoppers,Gold,No,Medium,2026-06-03
+CUST0098,Olivia Reddy,39,Female,Dallas,South,Data Scientist,Home Care,Dish Soap,2026-03-23,3,9.98,29.94,Cash,Store,Young Professionals,Silver,No,Low,2026-03-24
+CUST0125,Ella Moore,22,Female,Boston,Northeast,Product Manager,Beverages,Electrolyte Drink,2026-01-24,1,4.87,4.87,Credit Card,Mobile App,Budget Buyers,Silver,Yes,High,2026-02-13
+CUST0102,Ethan Davis,22,Male,Phoenix,West,Accountant,Home Care,Trash Bags,2026-02-27,2,7.28,14.56,Cash,Mobile App,Budget Buyers,None,Yes,High,2026-04-03
+CUST0132,Nora Williams,49,Male,Detroit,Midwest,Operations Manager,Home Care,Paper Towels,2026-05-27,2,10.66,21.32,Debit Card,Website,High Value,Gold,Yes,High,2026-06-03
+CUST0102,Ethan Davis,22,Male,Phoenix,West,Accountant,Beverages,Kombucha,2026-04-10,2,8.69,17.38,UPI/Wallet,Mobile App,Budget Buyers,None,Yes,High,2026-05-18
+CUST0019,Michael Martinez,59,Female,Phoenix,West,Accountant,Snacks,Protein Bar Pack,2025-12-25,2,1.15,2.3,UPI/Wallet,Mobile App,Family Shoppers,Gold,No,Medium,2026-02-09
+CUST0082,Ethan Wilson,18,Female,Minneapolis,Midwest,HR Manager,Groceries,Chicken Breast,2026-01-17,1,14.78,14.78,UPI/Wallet,Mobile App,Budget Buyers,Silver,No,High,2026-02-24
+CUST0141,Vivaan Mehta,29,Female,Chicago,Midwest,Sales Executive,Personal Care,Shampoo,2026-04-22,1,6.49,6.49,Credit Card,Store,Family Shoppers,None,Yes,High,2026-05-20
+CUST0023,Grace Johnson,57,Male,Seattle,West,Consultant,Home Care,Disinfectant Spray,2026-03-17,2,3.63,7.26,Credit Card,Mobile App,High Value,Gold,No,High,2026-05-09
+CUST0083,Aarav Davis,51,Male,Atlanta,South,Teacher,Personal Care,Face Wash,2026-02-10,2,4.91,9.82,Credit Card,Website,High Value,Gold,Yes,Medium,2026-03-07
+CUST0109,Aarav Jones,38,Male,Nashville,South,Sales Executive,Beauty,Makeup Kit,2026-04-12,1,39.37,39.37,,Website,Young Professionals,Silver,No,Medium,2026-05-02
+CUST0075,Lucas Singh,43,Male,Philadelphia,Northeast,Software Engineer,Beverages,Premium Coffee Pods,2026-03-06,2,19.65,39.3,UPI/Wallet,Mobile App,Family Shoppers,None,Yes,Low,2026-03-22
+CUST0129,Michael Garcia,33,Female,San Francisco,West,Software Engineer,Personal Care,Deodorant,2025-12-28,3,10.21,30.63,Debit Card,Store,Family Shoppers,Silver,Yes,High,2026-01-12
+CUST0088,Muhammad Taylor,33,Female,Miami,South,Product Manager,Beverages,Energy Drink Pack,2026-04-08,6,5.4,32.4,Credit Card,Mobile App,Family Shoppers,None,No,Medium,2026-06-03
+CUST0054,Vivaan Jackson,23,Female,Dallas,South,Student,Personal Care,Hand Sanitizer,2026-04-24,1,2.69,2.69,Credit Card,Store,Budget Buyers,None,Yes,Medium,2026-05-24
+CUST0089,Lily Moore,56,Male,Philadelphia,Northeast,Operations Manager,Groceries,Salmon Fillet,2026-03-25,3,2.94,8.82,Debit Card,Website,High Value,Gold,No,High,2026-05-14
+CUST0143,Henry Wilson,18,Female,Newark,Northeast,HR Manager,Groceries,Olive Oil,2026-03-12,3,13.97,41.91,Debit Card,Store,Budget Buyers,None,Yes,Medium,2026-03-20
+CUST0065,Isabella Davis,52,Male,Phoenix,West,Designer,Groceries,Fresh Eggs,2026-04-22,2,9.18,18.36,UPI/Wallet,Mobile App,High Value,Gold,Yes,High,2026-05-22
+CUST0076,Alexander Singh,54,Female,Phoenix,West,Data Scientist,Groceries,Cheese,2026-06-01,1,2.43,2.43,Net Banking,Website,Family Shoppers,Silver,No,High,2026-06-03
+CUST0143,Henry Wilson,18,Female,Newark,Northeast,HR Manager,Groceries,Chicken Breast,2025-12-21,2,20.55,41.1,Credit Card,Mobile App,Budget Buyers,None,Yes,Medium,2026-02-07
+CUST0149,Lucas Anderson,29,Male,Atlanta,South,Consultant,Groceries,Avocados,2026-03-13,3,18.54,55.62,Debit Card,Mobile App,Young Professionals,Silver,No,Medium,2026-04-18
+CUST0147,Emma Lee,46,Female,Portland,West,Consultant,Beverages,Iced Tea,2026-02-24,3,8.09,24.27,Debit Card,Website,Family Shoppers,None,Yes,Medium,2026-02-25
+CUST0060,Chloe Gupta,56,Female,Los Angeles,West,Accountant,Home Care,Laundry Detergent,2026-03-18,1,4.43,4.43,Credit Card,Mobile App,Family Shoppers,Silver,No,High,2026-05-08
+CUST0093,Nora Johnson,20,Male,San Francisco,West,Designer,Personal Care,Hand Cream,2026-05-05,2,2.78,5.56,Credit Card,Website,Budget Buyers,None,No,High,2026-06-03
+CUST0161,Leah Gupta,51,Female,Detroit,Midwest,Nurse,Groceries,Basmati Rice 5lb,2025-12-23,2,10.23,20.46,Credit Card,Mobile App,Family Shoppers,Gold,Yes,Medium,2026-02-06
+CUST0049,Sophia Rodriguez,39,Male,Orlando,South,Designer,Beverages,Orange Juice,2026-05-18,2,10.9,21.8,Cash,Mobile App,Young Professionals,None,No,Medium,2026-05-31
+CUST0035,Krishna Perez,53,Male,Miami,South,Student,Beverages,Cold Brew Coffee,2026-02-27,4,13.87,55.48,Debit Card,Store,Family Shoppers,Silver,No,Medium,2026-04-26
+CUST0172,Leah Perez,54,Female,New York,Northeast,HR Manager,Beverages,Energy Drink Pack,2025-12-12,1,1.28,1.28,Debit Card,Mobile App,Family Shoppers,Silver,Yes,Low,2026-01-13
+CUST0102,Ethan Davis,22,Male,Phoenix,West,Accountant,Home Care,Air Freshener,2026-01-01,1,13.7,13.7,Cash,Website,Budget Buyers,None,No,High,2026-02-04
+CUST0011,Ethan Thomas,20,Male,Boston,Northeast,Student,Personal Care,Vitamin C Tablets,2025-12-09,1,12.6,12.6,UPI/Wallet,Website,Budget Buyers,None,Yes,High,2026-02-04
+CUST0099,Chloe Martinez,46,Male,Dallas,South,Manager,Home Care,Disinfectant Spray,2026-04-28,1,8.86,8.86,Credit Card,Store,Family Shoppers,None,Yes,High,2026-06-03
+CUST0110,Lily Rodriguez,56,Female,Detroit,Midwest,Product Manager,Snacks,Dark Chocolate,2026-03-15,2,3.84,7.68,Debit Card,Mobile App,High Value,Silver,No,High,2026-05-11
+CUST0074,James Williams,45,Female,Detroit,Midwest,Consultant,Baby Products,Baby Diapers,2026-05-17,3,15.83,47.49,Debit Card,Website,High Value,Gold,Yes,High,2026-06-03
+CUST0174,Vivaan Singh,41,Male,Austin,South,Accountant,Beverages,Sparkling Water,2026-04-01,2,17.2,34.4,UPI/Wallet,Store,Family Shoppers,Gold,No,Medium,2026-05-21
+CUST0009,Emma Thomas,59,Female,Portland,West,Data Analyst,Snacks,Protein Bar Pack,2026-04-30,2,9.34,18.68,UPI/Wallet,Website,High Value,Silver,No,Low,2026-05-19
+CUST0003,Isabella White,49,Female,Chicago,Midwest,Operations Manager,Beauty,Sunscreen,2026-02-06,1,23.35,23.35,UPI/Wallet,Website,Family Shoppers,Silver,No,High,2026-02-07
+CUST0085,Ethan Gupta,42,Female,Nashville,South,HR Manager,Groceries,Cheese,2026-03-05,2,9.42,18.84,Credit Card,Website,Young Professionals,None,No,Medium,2026-04-24
+CUST0026,Lucas Sharma,56,Female,Dallas,South,HR Manager,Baby Products,Baby Food Jar,2026-03-31,2,9.63,19.26,UPI/Wallet,Website,High Value,Silver,No,Medium,2026-05-10
+CUST0072,Harper Davis,34,Male,Nashville,South,Data Scientist,Groceries,Whole Wheat Bread,2026-03-12,3,19.16,57.48,Credit Card,Website,High Value,Silver,No,Medium,2026-03-30
+CUST0048,Lily Iyer,40,Female,San Francisco,West,Designer,Home Care,Sponges Pack,2025-12-15,2,13.87,27.74,Credit Card,Mobile App,Family Shoppers,None,Yes,Medium,2026-02-11
+CUST0156,Nora Perez,25,Female,Newark,Northeast,Director,Baby Products,Baby Lotion,2026-01-27,2,18.95,37.9,Credit Card,Mobile App,Family Shoppers,None,No,Medium,2026-03-04
+CUST0117,Sophia Khan,22,Female,Orlando,South,HR Manager,Personal Care,Deodorant,2026-05-26,1,4.14,4.14,Credit Card,Store,Budget Buyers,None,Yes,Low,2026-06-03
+CUST0154,Ava Sharma,34,Female,Chicago,Midwest,Designer,Snacks,Trail Mix,2026-01-20,4,5.96,23.84,Credit Card,Mobile App,High Value,Gold,No,High,2026-02-04
+CUST0153,Benjamin Miller,40,Male,Detroit,Midwest,Business Owner,Personal Care,Razor Pack,2026-04-23,1,8.9,8.9,UPI/Wallet,Website,Family Shoppers,Silver,No,High,2026-04-26
+CUST0012,Zoey Johnson,57,Female,Detroit,Midwest,HR Manager,Home Care,Floor Cleaner,2026-05-02,2,,22.0,Cash,Mobile App,High Value,Gold,Yes,High,2026-05-13
+CUST0133,Isabella Lee,44,Male,Phoenix,West,Nurse,Groceries,Olive Oil,2026-04-22,1,16.84,16.84,Credit Card,Website,High Value,Gold,Yes,Medium,2026-05-20
+CUST0048,Lily Iyer,40,Female,San Francisco,West,Designer,Baby Products,Baby Wipes,2025-12-09,4,18.22,72.88,Credit Card,Mobile App,Family Shoppers,None,No,High,2025-12-15
+CUST0037,Harper Khan,18,Male,New York,Northeast,Software Engineer,Personal Care,Hand Sanitizer,2025-12-24,1,9.41,9.41,Credit Card,Mobile App,Budget Buyers,None,Yes,High,2026-01-06
+CUST0044,Abigail Martinez,45,Female,Los Angeles,West,Data Analyst,Personal Care,Body Wash,2026-05-22,2,12.48,24.96,Credit Card,Store,High Value,Silver,No,High,2026-06-03
+CUST0015,Aditya Garcia,39,Female,Orlando,South,Sales Executive,Groceries,Chicken Breast,2026-01-19,3,2.79,8.37,Credit Card,Store,Young Professionals,None,No,Medium,2026-01-30
+CUST0043,Vivaan Iyer,32,Male,San Diego,West,Teacher,Baby Products,Baby Food Jar,2025-12-16,2,25.54,51.08,Cash,Website,Young Professionals,Silver,No,Low,2026-01-19
+CUST0176,Henry Thompson,52,Male,Austin,South,Student,Snacks,Nuts Mix,2026-02-12,3,11.82,35.46,Credit Card,Website,High Value,Gold,No,Medium,2026-02-16
+CUST0087,Amelia Moore,18,Female,Newark,Northeast,Business Owner,Groceries,Avocados,2025-12-21,3,17.36,52.08,Debit Card,Website,High Value,Silver,Yes,Medium,2026-01-06
+CUST0070,Noah Patel,47,Female,Orlando,South,Accountant,Personal Care,Conditioner,2026-03-29,1,4.41,4.41,Credit Card,Website,High Value,Gold,Yes,High,2026-05-25
+CUST0046,Reyansh Sharma,19,Male,Austin,South,HR Manager,Snacks,Nuts Mix,2026-04-30,1,6.1,6.1,Cash,Website,Budget Buyers,None,Yes,High,2026-06-03
+CUST0108,Lily Rodriguez,43,Female,Boston,Northeast,HR Manager,Snacks,Dark Chocolate,2026-05-07,3,5.57,16.71,UPI/Wallet,Mobile App,Young Professionals,Gold,No,High,2026-06-03
+CUST0123,James Davis,49,Male,Newark,Northeast,Sales Executive,Groceries,Pasta,2026-01-21,2,18.4,36.8,Cash,Website,Family Shoppers,None,Yes,Medium,2026-01-30
+CUST0171,Aditya Gupta,27,Male,Portland,West,Data Analyst,Personal Care,Conditioner,2026-03-22,2,15.73,31.46,UPI/Wallet,Store,High Value,Gold,Yes,High,2026-05-03
+CUST0021,Vivaan Mehta,43,Female,Seattle,West,Business Owner,Home Care,Air Freshener,2026-01-25,1,9.43,9.43,,Store,Family Shoppers,None,Yes,Medium,2026-02-10
+CUST0151,Grace Sharma,19,Female,New York,Northeast,HR Manager,Personal Care,Body Wash,2026-03-10,2,10.23,20.46,Credit Card,Mobile App,Budget Buyers,None,Yes,High,2026-03-14
+CUST0107,Benjamin Thompson,43,Female,Portland,West,Business Owner,Beverages,Premium Coffee Pods,2026-02-12,3,9.29,27.87,UPI/Wallet,Website,High Value,Gold,Yes,Medium,2026-03-28
+CUST0080,Reyansh Das,29,Female,Minneapolis,Midwest,Product Manager,Baby Products,Baby Food Jar,2026-03-16,3,7.36,22.08,Credit Card,Website,Young Professionals,Gold,No,Medium,2026-04-26
+CUST0047,Muhammad Reddy,49,Male,San Francisco,West,Marketing Specialist,Beauty,Hair Oil,2026-02-17,1,38.07,38.07,Debit Card,Mobile App,High Value,Gold,No,High,2026-02-25
+CUST0117,Sophia Khan,22,Female,Orlando,South,HR Manager,Home Care,Glass Cleaner,2026-05-14,2,17.51,35.02,Credit Card,Mobile App,Budget Buyers,None,Yes,High,2026-06-03
+CUST0124,Ava Martinez,18,Female,Detroit,Midwest,Data Analyst,Snacks,Energy Bar,2026-05-04,4,10.93,43.72,Credit Card,Mobile App,Budget Buyers,None,No,High,2026-06-03
+CUST0143,Henry Wilson,18,Female,Newark,Northeast,HR Manager,Home Care,Sponges Pack,2026-04-26,2,15.02,30.04,Debit Card,Mobile App,Budget Buyers,None,Yes,Medium,2026-05-31
+CUST0025,Liam Davis,26,Female,Newark,Northeast,HR Manager,Baby Products,Baby Lotion,2026-05-08,2,5.14,10.28,Debit Card,Mobile App,Family Shoppers,None,No,Low,2026-06-03
+CUST0036,Nora Lee,37,Male,Detroit,Midwest,Designer,Snacks,Protein Bar Pack,2026-06-01,2,7.28,14.56,UPI/Wallet,Website,Family Shoppers,Silver,No,High,2026-06-03
+CUST0051,Zoey Sharma,39,Female,San Diego,West,Nurse,Baby Products,Baby Shampoo,2026-06-03,5,12.95,64.75,Credit Card,Website,Young Professionals,Gold,No,Medium,2026-06-03
+CUST0015,Aditya Garcia,39,Female,Orlando,South,Sales Executive,Snacks,Trail Mix,2026-02-24,3,10.81,32.43,Debit Card,Website,Young Professionals,None,No,Medium,2026-04-21
+CUST0068,Mason Perez,30,Female,San Francisco,West,Designer,Home Care,Floor Cleaner,2026-03-06,1,9.09,9.09,Credit Card,Store,Family Shoppers,Gold,Yes,Low,2026-04-03
+CUST0021,Vivaan Mehta,43,Female,Seattle,West,Business Owner,Snacks,Chips Combo,2026-06-01,2,1.88,3.76,Credit Card,Mobile App,Family Shoppers,None,Yes,Medium,2026-06-03
+CUST0141,Vivaan Mehta,29,Female,Chicago,Midwest,Sales Executive,Snacks,Nuts Mix,2026-05-28,1,1.17,1.17,Debit Card,Mobile App,Family Shoppers,None,Yes,Medium,2026-06-03
+CUST0019,Michael Martinez,59,Female,Phoenix,West,Accountant,Beverages,Sparkling Water,2025-12-08,3,18.42,55.26,Credit Card,Website,Family Shoppers,Gold,Yes,Low,2025-12-21
+CUST0034,Noah Martinez,24,Female,Denver,West,Director,Personal Care,Conditioner,2026-04-18,1,6.94,6.94,Credit Card,Mobile App,Budget Buyers,None,Yes,Low,2026-05-12
+CUST0078,Aarav Thomas,40,Female,Chicago,Midwest,Product Manager,Personal Care,Vitamin C Tablets,2026-03-23,1,10.19,10.19,Credit Card,Mobile App,High Value,Gold,Yes,Medium,2026-04-06
+CUST0125,Ella Moore,22,Female,Boston,Northeast,Product Manager,Beauty,Body Lotion,2026-05-16,1,42.72,42.72,Credit Card,Mobile App,Budget Buyers,Silver,Yes,Low,2026-05-21
+CUST0117,Sophia Khan,22,Female,Orlando,South,HR Manager,Beauty,Eyeliner,2026-01-21,1,22.89,22.89,Credit Card,Mobile App,Budget Buyers,None,No,Low,2026-03-17
+CUST0052,Aria Johnson,39,Female,Newark,Northeast,Data Scientist,Beverages,Kombucha,2026-02-15,3,,6.96,Credit Card,Store,Family Shoppers,Silver,No,Medium,2026-03-28
+CUST0027,Benjamin Das,46,Female,Newark,Northeast,Nurse,Beauty,Face Serum,2026-02-14,1,35.12,35.12,Credit Card,Mobile App,Family Shoppers,None,No,Medium,2026-03-14
+CUST0157,Sai Thompson,46,Female,Nashville,South,Teacher,Baby Products,Baby Shampoo,2026-03-30,2,8.46,16.92,Credit Card,Website,Family Shoppers,Silver,No,High,2026-04-13
+CUST0156,Nora Perez,25,Female,Newark,Northeast,Director,Home Care,Dish Soap,2026-05-26,3,11.54,34.62,Debit Card,Mobile App,Family Shoppers,None,No,Medium,2026-06-03
+CUST0035,Krishna Perez,53,Male,Miami,South,Student,Groceries,Organic Milk,2026-02-23,2,9.27,18.54,Credit Card,Website,Family Shoppers,Silver,No,Medium,2026-02-26
+CUST0136,Ava Thomas,29,Female,Orlando,South,Director,Baby Products,Baby Food Jar,2026-02-23,2,20.46,40.92,Credit Card,Mobile App,High Value,Silver,No,Medium,2026-03-12
+CUST0144,Henry Taylor,50,Male,Phoenix,West,Director,Groceries,Frozen Pizza,2026-03-27,2,11.12,22.24,Credit Card,Website,Family Shoppers,Silver,Yes,Medium,2026-05-15
+CUST0106,Liam Jackson,33,Female,Detroit,Midwest,Sales Executive,Groceries,Whole Wheat Bread,2026-03-10,3,11.63,34.89,UPI/Wallet,Mobile App,Young Professionals,Silver,No,High,2026-05-05
+CUST0164,Isabella Williams,21,Male,Chicago,Midwest,Marketing Specialist,Beverages,Cold Brew Coffee,2026-02-14,6,9.76,58.56,Cash,Mobile App,Budget Buyers,None,Yes,High,2026-04-03
+CUST0158,Muhammad Davis,43,Female,Orlando,South,Data Scientist,Baby Products,Baby Formula,2026-04-30,5,17.6,88.0,UPI/Wallet,Website,Young Professionals,Gold,No,Medium,2026-06-03
+CUST0146,Michael Lee,27,Male,New York,Northeast,Student,Beverages,Sports Drink,2026-02-05,2,16.82,33.64,UPI/Wallet,Mobile App,Budget Buyers,None,Yes,Medium,2026-03-15
+CUST0002,Alexander Wilson,38,Female,San Diego,West,Accountant,Snacks,Energy Bar,2026-01-11,1,10.5,10.5,Debit Card,Mobile App,Family Shoppers,None,Yes,High,2026-01-26
+CUST0177,Mason Garcia,53,Female,Orlando,South,Designer,Groceries,Chicken Breast,2026-02-09,2,20.46,40.92,UPI/Wallet,Mobile App,High Value,Gold,No,High,2026-02-19
+CUST0077,Isabella Lee,43,Male,San Francisco,West,Data Scientist,Home Care,Disinfectant Spray,2026-02-11,2,3.82,7.64,Debit Card,Store,Young Professionals,Silver,No,High,2026-02-24
+CUST0132,Nora Williams,49,Male,Detroit,Midwest,Operations Manager,Beauty,Lipstick,2025-12-17,1,44.05,44.05,Credit Card,Mobile App,High Value,Gold,Yes,Medium,2025-12-19
+CUST0090,Lily Sharma,22,Female,Austin,South,Consultant,Home Care,Toilet Cleaner,2026-05-28,2,11.32,22.64,Credit Card,Website,Budget Buyers,None,Yes,High,2026-06-03
+CUST0089,Lily Moore,56,Male,Philadelphia,Northeast,Operations Manager,Beauty,Sunscreen,2026-01-04,1,37.98,37.98,Credit Card,Mobile App,High Value,Gold,No,High,2026-02-22
+CUST0094,Henry Garcia,29,Male,Newark,Northeast,HR Manager,Groceries,Chicken Breast,2026-03-28,1,5.69,5.69,Cash,Mobile App,Young Professionals,Silver,No,Medium,2026-05-08
+CUST0007,Evelyn Martin,35,Male,Miami,South,Software Engineer,Groceries,Organic Milk,2025-12-26,2,13.38,26.76,Debit Card,Mobile App,Family Shoppers,Silver,Yes,Medium,2026-02-01
+CUST0095,Reyansh Reddy,43,Female,San Francisco,West,Product Manager,Groceries,Pasta,2026-03-07,1,20.95,20.95,UPI/Wallet,Store,Family Shoppers,None,No,Low,2026-04-20
+CUST0108,Lily Rodriguez,43,Female,Boston,Northeast,HR Manager,Beverages,Iced Tea,2026-05-24,1,14.02,14.02,Credit Card,Mobile App,Young Professionals,Gold,Yes,Medium,2026-06-03
+CUST0074,James Williams,45,Female,Detroit,Midwest,Consultant,Baby Products,Baby Formula,2026-02-09,2,9.29,18.58,Debit Card,Mobile App,High Value,Gold,Yes,High,2026-02-26
+CUST0039,Lucas Martin,33,Female,Austin,South,HR Manager,Beauty,Sunscreen,2026-01-27,1,24.83,24.83,,Mobile App,High Value,Silver,No,Medium,2026-03-25
+CUST0141,Vivaan Mehta,29,Female,Chicago,Midwest,Sales Executive,Baby Products,Baby Wipes,2026-04-21,2,27.76,55.52,Credit Card,Mobile App,Family Shoppers,None,Yes,Medium,2026-05-10
+CUST0159,Benjamin Wilson,27,Female,Philadelphia,Northeast,Student,Beverages,Herbal Tea,2026-01-15,4,19.12,76.48,UPI/Wallet,Mobile App,Budget Buyers,None,No,Medium,2026-03-13
+CUST0071,Mia Sharma,36,Female,San Francisco,West,Designer,Beverages,Kombucha,2026-02-06,4,12.11,48.44,Debit Card,Website,Young Professionals,Silver,No,Medium,2026-03-25
+CUST0056,Vihaan Rodriguez,54,Male,Philadelphia,Northeast,Student,Personal Care,Deodorant,2026-04-09,1,12.28,12.28,Credit Card,Mobile App,High Value,Gold,No,High,2026-05-03
+CUST0170,Vivaan Mehta,53,Male,Boston,Northeast,Student,Home Care,Dish Soap,2025-12-25,1,14.11,14.11,UPI/Wallet,Mobile App,High Value,Silver,Yes,Medium,2026-02-19
+CUST0042,James Martinez,40,Female,Boston,Northeast,Teacher,Home Care,Toilet Cleaner,2026-05-22,2,11.91,23.82,Credit Card,Website,Family Shoppers,None,Yes,Medium,2026-06-03
+CUST0036,Nora Lee,37,Male,Detroit,Midwest,Designer,Snacks,Dark Chocolate,2026-05-05,1,1.73,1.73,Net Banking,Mobile App,Family Shoppers,Silver,Yes,High,2026-05-17
+CUST0084,Muhammad Davis,49,Female,San Diego,West,Teacher,Beverages,Orange Juice,2026-01-08,3,18.4,55.2,Credit Card,Mobile App,High Value,Gold,No,High,2026-01-11
+CUST0118,Nora Sharma,53,Male,Austin,South,Designer,Beauty,Sunscreen,2026-01-03,1,17.11,17.11,Credit Card,Mobile App,High Value,Gold,No,Medium,2026-02-26
+CUST0007,Evelyn Martin,35,Male,Miami,South,Software Engineer,Personal Care,Toothpaste,2026-01-30,1,11.55,11.55,Credit Card,Website,Family Shoppers,Silver,No,High,2026-02-12
+CUST0054,Vivaan Jackson,23,Female,Dallas,South,Student,Personal Care,Shampoo,2026-01-20,2,17.62,35.24,Credit Card,Mobile App,Budget Buyers,None,No,High,2026-02-21
+CUST0129,Michael Garcia,33,Female,San Francisco,West,Software Engineer,Baby Products,Baby Diapers,2026-05-16,4,14.39,57.56,Credit Card,Website,Family Shoppers,Silver,No,Medium,2026-06-03
+CUST0172,Leah Perez,54,Female,New York,Northeast,HR Manager,Home Care,Dish Soap,2025-12-23,1,16.27,16.27,Debit Card,Mobile App,Family Shoppers,Silver,No,Medium,2026-02-12
+CUST0120,Krishna Sharma,48,Female,Phoenix,West,Sales Executive,Beverages,Premium Coffee Pods,2026-03-28,1,4.81,4.81,Cash,Website,High Value,Silver,Yes,High,2026-05-03
+CUST0173,Amelia Das,26,Male,Chicago,Midwest,Designer,Snacks,Chips Combo,2025-12-12,2,8.6,17.2,UPI/Wallet,Mobile App,Young Professionals,Silver,Yes,Medium,2025-12-19
+CUST0106,Liam Jackson,33,Female,Detroit,Midwest,Sales Executive,Beverages,Sparkling Water,2025-12-30,6,12.76,76.56,Credit Card,Website,Young Professionals,Silver,No,High,2026-02-11
+CUST0047,Muhammad Reddy,49,Male,San Francisco,West,Marketing Specialist,Baby Products,Baby Diapers,2026-03-27,1,24.4,24.4,Debit Card,Store,High Value,Gold,Yes,High,2026-04-29
+CUST0123,James Davis,49,Male,Newark,Northeast,Sales Executive,Groceries,Olive Oil,2026-02-13,2,8.62,17.24,Credit Card,Website,Family Shoppers,None,Yes,High,2026-03-28
+CUST0141,Vivaan Mehta,29,Female,Chicago,Midwest,Sales Executive,Beverages,Electrolyte Drink,2026-01-03,3,8.52,25.56,Credit Card,Mobile App,Family Shoppers,None,No,Medium,2026-01-07
+CUST0119,Benjamin Khan,51,Female,Philadelphia,Northeast,Designer,Baby Products,Baby Formula,2026-04-18,1,27.3,27.3,UPI/Wallet,Mobile App,Family Shoppers,None,No,Low,2026-06-03
+CUST0150,Nora White,48,Female,San Francisco,West,Manager,Groceries,Coffee Beans,2026-02-09,3,12.81,38.43,Debit Card,Mobile App,High Value,Silver,Yes,Medium,2026-02-13
+CUST0118,Nora Sharma,53,Male,Austin,South,Designer,Groceries,Avocados,2026-02-07,1,10.03,10.03,Credit Card,Mobile App,High Value,Gold,No,High,2026-03-09
+CUST0021,Vivaan Mehta,43,Female,Seattle,West,Business Owner,Snacks,Chips Combo,2026-01-09,1,6.22,6.22,Credit Card,Mobile App,Family Shoppers,None,No,Medium,2026-02-22
+CUST0137,Ella Taylor,52,Female,Dallas,South,Product Manager,Beauty,Skincare Set,2025-12-29,1,42.87,42.87,Net Banking,Store,High Value,Gold,No,High,2026-01-06
+CUST0026,Lucas Sharma,56,Female,Dallas,South,HR Manager,Home Care,Air Freshener,2026-01-10,2,9.58,19.16,Credit Card,Mobile App,High Value,Silver,Yes,Low,2026-02-20
+CUST0009,Emma Thomas,59,Female,Portland,West,Data Analyst,Beverages,Energy Drink Pack,2025-12-05,1,19.72,19.72,Debit Card,Mobile App,High Value,Silver,Yes,Medium,2026-01-05
+CUST0015,Aditya Garcia,39,Female,Orlando,South,Sales Executive,Groceries,Basmati Rice 5lb,2026-04-26,1,3.85,3.85,Debit Card,Website,Young Professionals,None,No,Medium,2026-05-28
+CUST0010,Emma Khan,48,Female,Chicago,Midwest,Data Analyst,Beverages,Sports Drink,2026-01-10,1,3.96,3.96,Credit Card,Website,Family Shoppers,None,No,High,2026-01-12
+CUST0122,Isabella Anderson,36,Male,Chicago,Midwest,Marketing Specialist,Beauty,Perfume,2026-04-24,1,31.33,31.33,Credit Card,Mobile App,Family Shoppers,None,No,Medium,2026-05-23
+CUST0121,Isabella Jones,27,Male,Dallas,South,Sales Executive,Home Care,Dish Soap,2026-04-19,2,3.31,6.62,Credit Card,Store,Young Professionals,Silver,No,High,2026-06-03
+CUST0125,Ella Moore,22,Female,Boston,Northeast,Product Manager,Beauty,Sunscreen,2026-04-16,1,21.53,21.53,UPI/Wallet,Mobile App,Budget Buyers,Silver,Yes,Medium,2026-04-27
+CUST0170,Vivaan Mehta,53,Male,Boston,Northeast,Student,Home Care,Laundry Detergent,2026-04-11,3,7.54,22.62,Debit Card,Website,High Value,Silver,Yes,Medium,2026-05-09
+CUST0176,Henry Thompson,52,Male,Austin,South,Student,Personal Care,Toothpaste,2026-03-01,2,14.42,28.84,UPI/Wallet,Website,High Value,Gold,Yes,High,2026-03-18
+CUST0011,Ethan Thomas,20,Male,Boston,Northeast,Student,Groceries,Fresh Strawberries,2025-12-12,1,20.95,20.95,Cash,Store,Budget Buyers,None,No,Medium,2025-12-31
+CUST0141,Vivaan Mehta,29,Female,Chicago,Midwest,Sales Executive,Personal Care,Shampoo,2026-04-22,1,6.49,6.49,Credit Card,Store,Family Shoppers,None,Yes,High,2026-05-20
+CUST0122,Isabella Anderson,36,Male,Chicago,Midwest,Marketing Specialist,Personal Care,Toothpaste,2025-12-21,3,15.56,46.68,Credit Card,Website,Family Shoppers,None,Yes,Medium,2026-02-16
+CUST0150,Nora White,48,Female,San Francisco,West,Manager,Groceries,Coffee Beans,2026-02-28,4,12.31,49.24,UPI/Wallet,Website,High Value,Silver,No,Medium,2026-03-25
+CUST0172,Leah Perez,54,Female,New York,Northeast,HR Manager,Beverages,Energy Drink Pack,2025-12-12,1,1.28,1.28,Debit Card,Mobile App,Family Shoppers,Silver,Yes,Low,2026-01-13
+CUST0109,Aarav Jones,38,Male,Nashville,South,Sales Executive,Beauty,Makeup Kit,2026-04-12,1,39.37,39.37,,Website,Young Professionals,Silver,No,Medium,2026-05-02
+CUST0160,Krishna Khan,43,Female,New York,Northeast,HR Manager,Groceries,Whole Wheat Bread,2026-03-13,2,11.71,23.42,Cash,Store,Family Shoppers,None,No,Medium,2026-03-25
