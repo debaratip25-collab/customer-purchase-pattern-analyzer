@@ -1,0 +1,5 @@
+Customer ID,Customer Name,Gender,Age Group,City,Region,Occupation,Customer Segment,Loyalty Status,Total_Revenue,Orders,Total_Quantity,Avg_Unit_Price,Last_Purchase,Discount_Usage_Rate,AOV,Days Since Last Purchase
+CUST0111,Leah Patel,Female,45-54,Chicago,Midwest,Student,High Value,Silver,127.74,3,6,17.400000000000002,2026-02-26,0.6666666666666666,42.58,97
+CUST0073,Ethan White,Male,35-44,Denver,West,Operations Manager,High Value,Gold,125.3,3,9,16.066666666666666,2026-04-29,0.3333333333333333,41.766666666666666,35
+CUST0130,Leah Sharma,Female,18-24,Detroit,Midwest,Director,Budget Buyers,Silver,123.66,4,8,15.0825,2026-03-12,0.5,30.915,83
+CUST0087,Amelia Moore,Female,18-24,Newark,Northeast,Business Owner,High Value,Silver,97.92,3,7,11.646666666666667,2026-04-30,0.6666666666666666,32.64,34

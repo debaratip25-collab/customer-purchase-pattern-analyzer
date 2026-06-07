@@ -1,0 +1,113 @@
+Customer ID,Customer Name,Gender,Age Group,City,Region,Occupation,Customer Segment,Loyalty Status,Total_Revenue,Orders,Total_Quantity,Avg_Unit_Price,Last_Purchase,Discount_Usage_Rate,AOV,Days Since Last Purchase
+CUST0072,Harper Davis,Male,25-34,Nashville,South,Data Scientist,High Value,Silver,272.81,6,16,16.655,2026-06-03,0.3333333333333333,45.46833333333333,0
+CUST0084,Muhammad Davis,Female,45-54,San Diego,West,Teacher,High Value,Gold,265.48,8,22,11.91875,2026-06-03,0.625,33.185,0
+CUST0106,Liam Jackson,Female,25-34,Detroit,Midwest,Sales Executive,Young Professionals,Silver,248.11,4,17,13.275,2026-05-05,0.25,62.0275,29
+CUST0172,Leah Perez,Female,45-54,New York,Northeast,HR Manager,Family Shoppers,Silver,199.57,6,12,17.775000000000002,2026-05-12,0.3333333333333333,33.26166666666666,22
+CUST0166,Ella White,Female,45-54,Atlanta,South,Software Engineer,High Value,Gold,194.16,5,15,10.91,2026-06-03,0.4,38.832,0
+CUST0089,Lily Moore,Male,55+,Philadelphia,Northeast,Operations Manager,High Value,Gold,183.05,5,11,15.977999999999998,2026-05-28,0.4,36.61,6
+CUST0158,Muhammad Davis,Female,35-44,Orlando,South,Data Scientist,Young Professionals,Gold,159.63,3,10,18.08333333333333,2026-06-03,0.0,53.21,0
+CUST0136,Ava Thomas,Female,25-34,Orlando,South,Director,High Value,Silver,157.85,4,8,19.1825,2026-06-03,0.0,39.4625,0
+CUST0108,Lily Rodriguez,Female,35-44,Boston,Northeast,HR Manager,Young Professionals,Gold,157.37,4,13,11.815,2026-06-03,0.25,39.3425,0
+CUST0041,Krishna Wilson,Male,25-34,Los Angeles,West,Nurse,High Value,Gold,147.17000000000002,4,6,24.6575,2026-06-03,0.0,36.7925,0
+CUST0026,Lucas Sharma,Female,55+,Dallas,South,HR Manager,High Value,Silver,146.82999999999998,5,13,10.788,2026-05-19,0.4,29.366,15
+CUST0047,Muhammad Reddy,Male,45-54,San Francisco,West,Marketing Specialist,High Value,Gold,136.28,5,11,17.336000000000002,2026-06-03,0.6,27.256,0
+CUST0008,Mason Mehta,Female,35-44,San Diego,West,Operations Manager,Young Professionals,Gold,135.42000000000002,6,12,16.28,2026-06-02,0.0,22.570000000000004,1
+CUST0125,Ella Moore,Female,18-24,Boston,Northeast,Product Manager,Budget Buyers,Silver,131.56,5,7,20.068,2026-05-21,1.0,26.312,13
+CUST0111,Leah Patel,Female,45-54,Chicago,Midwest,Student,High Value,Silver,127.74,3,6,17.400000000000002,2026-02-26,0.6666666666666666,42.58,97
+CUST0060,Chloe Gupta,Female,55+,Los Angeles,West,Accountant,Family Shoppers,Silver,127.51999999999998,4,10,12.3225,2026-06-03,0.25,31.879999999999995,0
+CUST0073,Ethan White,Male,35-44,Denver,West,Operations Manager,High Value,Gold,125.3,3,9,16.066666666666666,2026-04-29,0.3333333333333333,41.766666666666666,35
+CUST0044,Abigail Martinez,Female,45-54,Los Angeles,West,Data Analyst,High Value,Silver,124.9,3,8,14.76,2026-06-03,0.0,41.63333333333333,0
+CUST0130,Leah Sharma,Female,18-24,Detroit,Midwest,Director,Budget Buyers,Silver,123.66,4,8,15.0825,2026-03-12,0.5,30.915,83
+CUST0161,Leah Gupta,Female,45-54,Detroit,Midwest,Nurse,Family Shoppers,Gold,120.37,5,11,10.728,2026-06-03,1.0,24.074,0
+CUST0035,Krishna Perez,Male,45-54,Miami,South,Student,Family Shoppers,Silver,114.6,4,11,9.8575,2026-06-03,0.25,28.65,0
+CUST0007,Evelyn Martin,Male,35-44,Miami,South,Software Engineer,Family Shoppers,Silver,112.13,3,5,20.613333333333333,2026-06-03,0.6666666666666666,37.376666666666665,0
+CUST0129,Michael Garcia,Female,25-34,San Francisco,West,Software Engineer,Family Shoppers,Silver,111.75,3,8,16.05333333333333,2026-06-03,0.3333333333333333,37.25,0
+CUST0045,Henry Das,Female,45-54,Nashville,South,Nurse,High Value,Silver,110.27,4,8,14.8725,2026-05-24,0.25,27.567500000000003,10
+CUST0179,Ella Anderson,Male,55+,Detroit,Midwest,Software Engineer,High Value,Gold,109.71,3,9,12.62,2026-06-03,0.0,36.57,0
+CUST0053,Vihaan Perez,Female,55+,New York,Northeast,Teacher,Family Shoppers,Gold,105.98,3,6,17.663333333333334,2026-06-03,0.0,35.32666666666667,0
+CUST0114,Aarav Davis,Female,45-54,Detroit,Midwest,Business Owner,High Value,Silver,104.43,3,7,14.863333333333337,2026-06-01,0.0,34.81,2
+CUST0080,Reyansh Das,Female,25-34,Minneapolis,Midwest,Product Manager,Young Professionals,Gold,103.72,4,11,9.6325,2026-06-03,0.25,25.93,0
+CUST0069,Aria Garcia,Female,55+,Los Angeles,West,HR Manager,High Value,Silver,102.82,3,5,18.343333333333334,2026-06-03,1.0,34.27333333333333,0
+CUST0150,Nora White,Female,45-54,San Francisco,West,Manager,High Value,Silver,100.33,3,8,12.593333333333334,2026-06-02,0.3333333333333333,33.443333333333335,1
+CUST0087,Amelia Moore,Female,18-24,Newark,Northeast,Business Owner,High Value,Silver,97.92,3,7,11.646666666666668,2026-04-30,0.6666666666666666,32.64,34
+CUST0171,Aditya Gupta,Male,25-34,Portland,West,Data Analyst,High Value,Gold,97.11,4,7,13.2,2026-06-03,0.5,24.2775,0
+CUST0131,Mason Davis,Female,45-54,San Diego,West,Product Manager,High Value,Silver,94.8,5,7,12.352,2026-05-15,0.2,18.96,19
+CUST0064,Charlotte Martin,Male,45-54,Los Angeles,West,Consultant,High Value,Gold,89.53999999999999,4,6,17.8925,2026-06-03,0.0,22.385,0
+CUST0132,Nora Williams,Male,45-54,Detroit,Midwest,Operations Manager,High Value,Gold,89.47,3,5,22.25333333333333,2026-06-03,0.6666666666666666,29.82333333333333,0
+CUST0175,Vivaan Moore,Female,45-54,San Diego,West,Data Analyst,High Value,Gold,89.18,3,5,17.246666666666666,2026-06-03,0.3333333333333333,29.72666666666667,0
+CUST0174,Vivaan Singh,Male,35-44,Austin,South,Accountant,Family Shoppers,Gold,88.97,4,6,14.605,2026-06-02,0.5,22.2425,1
+CUST0134,Alexander Wilson,Male,35-44,Boston,Northeast,Teacher,Young Professionals,Silver,85.38,3,6,14.796666666666669,2026-06-03,0.3333333333333333,28.46,0
+CUST0039,Lucas Martin,Female,25-34,Austin,South,HR Manager,High Value,Silver,85.25999999999999,3,4,23.05,2026-05-18,0.3333333333333333,28.42,16
+CUST0012,Zoey Johnson,Female,55+,Detroit,Midwest,HR Manager,High Value,Gold,80.17,6,10,7.135000000000001,2026-06-03,0.6666666666666666,13.361666666666666,0
+CUST0058,Harper White,Female,25-34,San Francisco,West,Software Engineer,Young Professionals,Silver,78.84,2,6,13.14,2026-03-26,0.0,39.42,69
+CUST0086,Emma Martinez,Female,55+,Portland,West,Designer,Family Shoppers,Gold,77.9,2,4,22.18,2026-05-23,0.5,38.95,11
+CUST0068,Mason Perez,Female,25-34,San Francisco,West,Designer,Family Shoppers,Gold,76.69,2,3,21.445,2026-06-03,0.5,38.345,0
+CUST0043,Vivaan Iyer,Male,25-34,San Diego,West,Teacher,Young Professionals,Silver,76.07,2,3,25.265,2026-03-16,0.0,38.035,79
+CUST0154,Ava Sharma,Female,25-34,Chicago,Midwest,Designer,High Value,Gold,74.86,3,7,12.92,2026-03-26,0.0,24.953333333333333,69
+CUST0009,Emma Thomas,Female,55+,Portland,West,Data Analyst,High Value,Silver,71.52,4,5,15.544999999999998,2026-05-19,0.75,17.88,15
+CUST0051,Zoey Sharma,Female,35-44,San Diego,West,Nurse,Young Professionals,Gold,69.05,2,6,8.625,2026-06-03,0.0,34.525,0
+CUST0176,Henry Thompson,Male,45-54,Austin,South,Student,High Value,Gold,67.39,3,8,9.09,2026-05-12,0.3333333333333333,22.46333333333333,22
+CUST0145,Abigail Reddy,Male,55+,Portland,West,Nurse,Family Shoppers,Gold,66.97,4,8,9.215,2026-05-07,0.5,16.7425,27
+CUST0148,Henry Patel,Female,25-34,San Diego,West,Director,Family Shoppers,Gold,66.57000000000001,4,6,12.3525,2026-05-20,0.75,16.642500000000002,14
+CUST0074,James Williams,Female,45-54,Detroit,Midwest,Consultant,High Value,Gold,66.07,2,5,12.56,2026-06-03,1.0,33.035,0
+CUST0168,Olivia Jones,Male,35-44,Nashville,South,Nurse,High Value,Gold,64.18,2,4,14.580000000000002,2026-06-03,1.0,32.09,0
+CUST0177,Mason Garcia,Female,45-54,Orlando,South,Designer,High Value,Gold,63.93000000000001,2,3,21.735,2026-03-22,0.5,31.965000000000003,73
+CUST0076,Alexander Singh,Female,45-54,Phoenix,West,Data Scientist,Family Shoppers,Silver,63.8,5,7,8.614,2026-06-03,0.0,12.760000000000002,0
+CUST0127,Ella Iyer,Female,25-34,Orlando,South,Software Engineer,Family Shoppers,Silver,63.13,3,4,19.86,2026-05-23,0.6666666666666666,21.043333333333333,11
+CUST0017,Vivaan Moore,Male,18-24,Seattle,West,Business Owner,High Value,Silver,62.94,1,2,31.47,2026-04-30,0.0,62.94,34
+CUST0098,Olivia Reddy,Female,35-44,Dallas,South,Data Scientist,Young Professionals,Silver,61.19,2,4,20.615,2026-04-13,0.0,30.595,51
+CUST0014,Ethan Lee,Male,45-54,Nashville,South,Product Manager,High Value,Gold,58.82000000000001,4,5,10.3625,2026-05-03,0.75,14.705000000000002,31
+CUST0103,Leah White,Female,45-54,Miami,South,HR Manager,High Value,Gold,57.92,3,6,9.42,2026-06-03,0.3333333333333333,19.30666666666667,0
+CUST0019,Michael Martinez,Female,55+,Phoenix,West,Accountant,Family Shoppers,Gold,57.56,2,5,9.785,2026-02-09,0.5,28.78,114
+CUST0082,Ethan Wilson,Female,18-24,Minneapolis,Midwest,HR Manager,Budget Buyers,Silver,57.01,3,6,11.063333333333333,2026-06-03,0.0,19.00333333333333,0
+CUST0077,Isabella Lee,Male,35-44,San Francisco,West,Data Scientist,Young Professionals,Silver,55.64,3,7,7.223333333333334,2026-02-27,0.3333333333333333,18.546666666666667,96
+CUST0149,Lucas Anderson,Male,25-34,Atlanta,South,Consultant,Young Professionals,Silver,55.62,1,3,18.54,2026-04-18,0.0,55.62,46
+CUST0032,Leah Thompson,Female,35-44,Phoenix,West,Designer,Young Professionals,Silver,55.23,2,6,9.205,2026-05-08,0.5,27.615,26
+CUST0118,Nora Sharma,Male,45-54,Austin,South,Designer,High Value,Gold,55.09,4,5,11.245,2026-06-03,0.25,13.7725,0
+CUST0001,Nora Sharma,Male,45-54,Phoenix,West,Director,High Value,Gold,52.43,5,7,8.596,2026-06-03,0.6,10.486,0
+CUST0162,Grace Garcia,Male,55+,Denver,West,Data Analyst,High Value,Silver,50.58,2,6,8.43,2026-06-03,0.5,25.29,0
+CUST0079,Lucas Das,Male,25-34,Miami,South,Accountant,Young Professionals,Gold,50.260000000000005,2,2,25.130000000000003,2026-06-03,0.0,25.130000000000003,0
+CUST0096,Krishna Khan,Female,25-34,Boston,Northeast,Operations Manager,Young Professionals,Silver,49.02,3,3,16.34,2026-02-22,0.6666666666666666,16.34,101
+CUST0094,Henry Garcia,Male,25-34,Newark,Northeast,HR Manager,Young Professionals,Silver,48.77,3,5,12.936666666666667,2026-05-08,0.3333333333333333,16.256666666666664,26
+CUST0071,Mia Sharma,Female,35-44,San Francisco,West,Designer,Young Professionals,Silver,48.44,1,4,12.11,2026-03-25,0.0,48.44,70
+CUST0066,Muhammad Jackson,Male,55+,Minneapolis,Midwest,Data Scientist,High Value,Silver,48.05,2,3,13.335,2026-06-03,1.0,24.025,0
+CUST0170,Vivaan Mehta,Male,45-54,Boston,Northeast,Student,High Value,Silver,47.26,3,7,8.386666666666667,2026-05-09,1.0,15.753333333333332,25
+CUST0070,Noah Patel,Female,45-54,Orlando,South,Accountant,High Value,Gold,47.0,2,2,23.5,2026-06-02,0.5,23.5,1
+CUST0173,Amelia Das,Male,25-34,Chicago,Midwest,Designer,Young Professionals,Silver,46.11,2,3,18.755,2026-03-29,0.5,23.055,66
+CUST0063,Sophia Davis,Male,45-54,Nashville,South,Teacher,High Value,Silver,45.1,2,6,8.05,2026-06-03,0.5,22.55,0
+CUST0078,Aarav Thomas,Female,35-44,Chicago,Midwest,Product Manager,High Value,Gold,43.81,3,5,12.443333333333332,2026-04-08,0.3333333333333333,14.603333333333332,56
+CUST0137,Ella Taylor,Female,45-54,Dallas,South,Product Manager,High Value,Gold,42.87,1,1,42.87,2026-01-06,0.0,42.87,148
+CUST0056,Vihaan Rodriguez,Male,45-54,Philadelphia,Northeast,Student,High Value,Gold,42.17,3,4,11.39,2026-06-03,0.3333333333333333,14.056666666666668,0
+CUST0121,Isabella Jones,Male,25-34,Dallas,South,Sales Executive,Young Professionals,Silver,39.44,3,5,8.876666666666667,2026-06-03,0.3333333333333333,13.146666666666668,0
+CUST0109,Aarav Jones,Male,35-44,Nashville,South,Sales Executive,Young Professionals,Silver,39.37,1,1,39.37,2026-05-02,0.0,39.37,32
+CUST0052,Aria Johnson,Female,35-44,Newark,Northeast,Data Scientist,Family Shoppers,Silver,38.92,2,4,7.75,2026-03-28,0.0,19.46,67
+CUST0139,Liam White,Female,45-54,Nashville,South,Nurse,High Value,Gold,38.72,2,4,9.68,2026-06-03,0.5,19.36,0
+CUST0107,Benjamin Thompson,Female,35-44,Portland,West,Business Owner,High Value,Gold,35.97,2,4,8.695,2026-03-28,1.0,17.985,67
+CUST0097,Muhammad Mehta,Male,45-54,San Francisco,West,Operations Manager,High Value,Gold,35.74,2,5,6.77,2026-03-15,0.5,17.87,80
+CUST0029,Mia Lee,Male,35-44,Philadelphia,Northeast,Business Owner,High Value,Gold,35.73,2,2,17.865,2026-06-03,0.5,17.865,0
+CUST0116,James Das,Female,25-34,Newark,Northeast,Student,Budget Buyers,Silver,34.2,1,2,17.1,2026-05-30,0.0,34.2,4
+CUST0169,Nora Anderson,Male,35-44,Dallas,South,HR Manager,High Value,Gold,32.93,2,5,5.88,2026-06-03,0.0,16.465,0
+CUST0133,Isabella Lee,Male,35-44,Phoenix,West,Nurse,High Value,Gold,31.02,2,3,11.965,2026-05-20,0.5,15.51,14
+CUST0028,Henry Perez,Female,55+,Philadelphia,Northeast,HR Manager,High Value,Gold,30.89,2,2,15.445,2026-04-10,1.0,15.445,54
+CUST0005,Noah Anderson,Female,45-54,Miami,South,Product Manager,High Value,Gold,30.58,2,2,15.29,2026-05-18,0.5,15.29,16
+CUST0100,Grace White,Male,25-34,San Diego,West,Data Scientist,High Value,Gold,30.35,2,5,10.135,2026-05-23,1.0,15.175,11
+CUST0003,Isabella White,Female,45-54,Chicago,Midwest,Operations Manager,Family Shoppers,Silver,30.040000000000003,2,2,15.02,2026-06-03,0.0,15.02,0
+CUST0004,Muhammad Patel,Male,35-44,Newark,Northeast,Business Owner,Family Shoppers,Silver,27.96,1,2,13.98,2026-03-14,1.0,27.96,81
+CUST0157,Sai Thompson,Female,45-54,Nashville,South,Teacher,Family Shoppers,Silver,27.840000000000003,2,4,6.960000000000001,2026-04-13,0.0,13.920000000000002,51
+CUST0113,Aditya Gupta,Female,45-54,Detroit,Midwest,Accountant,High Value,Silver,27.26,1,2,13.63,2026-01-15,0.0,27.26,139
+CUST0092,Arjun Martinez,Female,45-54,Denver,West,Student,High Value,Gold,25.39,3,4,5.446666666666666,2026-06-03,0.6666666666666666,8.463333333333333,0
+CUST0144,Henry Taylor,Male,45-54,Phoenix,West,Director,Family Shoppers,Silver,22.24,1,2,11.12,2026-05-15,1.0,22.24,19
+CUST0110,Lily Rodriguez,Female,55+,Detroit,Midwest,Product Manager,High Value,Silver,22.19,2,3,9.175,2026-05-11,0.5,11.095,23
+CUST0024,Olivia Davis,Male,45-54,Dallas,South,Marketing Specialist,High Value,Gold,22.05,3,3,7.35,2026-06-03,1.0,7.35,0
+CUST0153,Benjamin Miller,Male,35-44,Detroit,Midwest,Business Owner,Family Shoppers,Silver,21.12,2,3,7.505000000000001,2026-05-05,0.0,10.56,29
+CUST0022,Noah Taylor,Male,25-34,Orlando,South,Data Scientist,Young Professionals,Silver,20.3,2,5,4.465,2026-03-11,0.5,10.15,84
+CUST0065,Isabella Davis,Male,45-54,Phoenix,West,Designer,High Value,Gold,18.36,1,2,9.18,2026-05-22,1.0,18.36,12
+CUST0036,Nora Lee,Male,35-44,Detroit,Midwest,Designer,Family Shoppers,Silver,16.29,2,3,4.505,2026-06-03,0.5,8.145,0
+CUST0120,Krishna Sharma,Female,45-54,Phoenix,West,Sales Executive,High Value,Silver,13.94,2,2,6.970000000000001,2026-05-16,0.5,6.970000000000001,18
+CUST0040,Sophia Gupta,Male,25-34,Atlanta,South,HR Manager,Young Professionals,Silver,13.04,1,4,3.26,2026-04-14,0.0,13.04,50
+CUST0038,Vihaan Wilson,Female,25-34,Chicago,Midwest,Business Owner,High Value,Gold,12.38,1,1,12.38,2026-03-25,0.0,12.38,70
+CUST0083,Aarav Davis,Male,45-54,Atlanta,South,Teacher,High Value,Gold,9.82,1,2,4.91,2026-03-07,1.0,9.82,88
+CUST0023,Grace Johnson,Male,55+,Seattle,West,Consultant,High Value,Gold,7.26,1,2,3.63,2026-05-09,0.0,7.26,25
+CUST0152,Aarav Perez,Male,45-54,Los Angeles,West,Student,High Value,Gold,7.06,1,1,7.06,2026-06-03,0.0,7.06,0
+CUST0128,Vihaan Gupta,Male,35-44,Newark,Northeast,Nurse,Young Professionals,Gold,6.15,1,1,6.15,2026-06-03,0.0,6.15,0
+CUST0057,Alexander Thomas,Female,45-54,Portland,West,Data Scientist,High Value,Gold,1.02,1,1,1.02,2026-02-08,0.0,1.02,115
