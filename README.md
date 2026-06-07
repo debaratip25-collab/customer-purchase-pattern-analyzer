@@ -8,9 +8,10 @@ The dataset contains transactional purchase records with customer demographics, 
 
 ## Dashboard 
 
-![dashboard1 1](screenshot/dashboard 1.png)
+<img width="1313" height="740" alt="Screenshot 2026-06-07 122226" src="https://github.com/user-attachments/assets/62a1374d-8dd9-4d04-b069-e29a7810a5aa" />
 
-![dashboard1 2](screenshot/dashboard 2.png)
+<img width="1312" height="737" alt="Screenshot 2026-06-07 122247" src="https://github.com/user-attachments/assets/236a6cbe-6683-4e4e-be66-25f1bb8c42ac" />
+
 
 **Key columns:**
 - Customer: ID, Name, Age, Gender, City, Region, Occupation, Segment, Loyalty
